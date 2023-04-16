@@ -360,6 +360,8 @@
     <hr>
     <li>Implementation= Uygulama</li>
     <hr>
+    <li>Input= Girdi</li>
+    <hr>
     <li>IT= Bilgi İletişim Teknolojileri</li>
     <hr>
     <li>Interface= Arayüz</li>
@@ -446,6 +448,8 @@
     <li>Optimize= İyileştirmek</li>
     <hr>
     <li>Option= Seçenek</li>
+    <hr>
+    <li>Output= Çıktı</li>
     <hr>
     <br>
     <br>
