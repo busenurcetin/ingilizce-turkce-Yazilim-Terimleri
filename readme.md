@@ -20,7 +20,7 @@
     <hr>
     <li>Adware= Reklam İçeren Bilgisayar Yazılımı</li>
     <hr>
-    <li>Advenced= Gelişmiş</li>
+    <li>Advanced= Gelişmiş</li>
     <hr>
     <li>Administrators= Yöneticiler</li>
     <hr>
