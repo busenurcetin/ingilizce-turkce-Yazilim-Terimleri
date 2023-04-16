@@ -42,6 +42,8 @@
     <hr>
     <li>Array= Dizi</li>
     <hr>
+    <li>Attribute= Nitelik, Bir Nesnenin, Öğenin Veya Dosyanın Bir Özelliğini Tanımlar.</li>
+    <hr>
     <li>Auditing= Sistemlerin, Süreçlerin Ve Verilerin Gözden Geçirilmesiyle Düzenlemelere Ve Kurum İçi Politikalara Uygunluğun Doğrulanması.</li>
     <hr>
     <li>Autocomplete= Otomatik Tamamlama</li>
@@ -57,6 +59,8 @@
     <li>Autosave= Otomatik Kaydetme</li>
     <hr>
     <li>Algorithm= Algoritma</li>
+    <hr>
+    <li>ASCII(American Standard Code For Information Interexchange)= 8 Bitlik Kodda bulunan Harfler, Sayılar Ve Diğer Karakterlere Farklı Yuvalar Atayan        Bir Standarttır.</li>
     <hr>
     <br>
     <br>
@@ -128,6 +132,8 @@
     <hr>
     <li>Compliance= Güvenlik Ve Gizliliğin Sağlanması İçin Yönetim Tarafından Belirlenen Yönergelerin Ve Standartların Karşılanması.</li>
     <hr>
+    <li>CMS(Content Managment System)= İçerik Yönetim Sistemi</li>
+    <hr>
     <li>Configuration= Yapılandırma</li>
     <hr>
     <li>Confirmation= Doğrulama</li>
@@ -135,6 +141,8 @@
     <li>Connectivity= Bağlanabilirlik</li>
     <hr>
     <li>Console Application= Konsol Uygulaması</li>
+    <hr>
+    <li>Constant= Sabit</li>
     <hr>
     <li>Continue= Devam Etmek</li>
     <hr>
@@ -145,6 +153,8 @@
     <li>Corrupt= Bozuk</li>
     <hr>
     <li>Crash= Çökmek, Arızalanmak</li>
+    <hr>
+    <li>Crawl= Arama Robotu</li>
     <hr>
     <li>Create= Oluşturmak</li>
     <hr>
@@ -168,6 +178,8 @@
     <hr>
     <br>
     <br>
+    <li>Dashboard= Gösterge Tablosu</li>
+    <hr>
     <li>Database= Veri Tabanı</li>
     <hr>
     <li>Data Processing= Veri İşleme</li>
@@ -198,6 +210,8 @@
     <hr>
     <li>Desktop Publishing= Masaüstü Yayıncılık</li>
     <hr>
+    <li>Design Pattern= Tasarım Desenleri</li>
+    <hr>
     <li>Device Driver= Aygıt Sürücüsü</li>
     <hr>
     <li>Development= Geliştirme</li>
@@ -213,6 +227,8 @@
     <li>Document= Belge</li>
     <hr>
     <li>Documentation= Dökümantasyon</li>
+    <hr>
+    <li>Domain= Alan Adı</li>
     <hr>
     <li>Due Date/Deadline= Teslim Tarihi/Bitiş Tarihi</li>
     <hr>
@@ -270,7 +286,9 @@
     <hr>
     <li>Fault= Hata</li>
     <hr>
-     <li>Fall down= Düşmek</li>
+    <li>Fall Down= Düşmek</li>
+    <hr>
+    <li>Favicon= Kısayol Simgesi, Web Sitesi Simgesi</li>
     <hr>
     <li>Feature= Özellik</li>
     <hr>
@@ -368,6 +386,8 @@
     <hr>
     <li>Interface= Arayüz</li>
     <hr>
+    <li>Interpreter= Yorumlayıcı</li>
+    <hr>
     <li>Integration= İntegrasyon</li>
     <hr>
     <li>Input= Girdi</li>
@@ -402,9 +422,13 @@
     <hr>
     <li>Logging= Şüpheli Faaliyetleri Tespit Etmek İçin Kullanıcı Faaliyetlerini İzlemek.</li>
     <hr>
+    <li>Loop= Döngü</li>
+    <hr>
     <br>
     <br>
     <li>Macro Recorder= Makro Kaydedici</li>
+    <hr>
+    <li>Machine Language= Makine Dili</li>
     <hr>
     <li>Maintenance= Bakım</li>
     <hr>
@@ -418,9 +442,13 @@
     <hr>
     <li>Merge= Birleştir</li>
     <hr>
+    <li>Meta Tag= Meta Eklentisi</li>
+    <hr>
     <li>Move= Taşı</li>
     <hr>
     <li>Monitoring= İzleme</li>
+    <hr>
+    <li>Memory Leak= Bellek Sızıntısı</li>
     <hr>
     <li>Midterm Exam= Dönem Ortası Sınavı</li>
     <hr>
@@ -438,8 +466,14 @@
     <hr>
     <li>Narrow= Dar</li>
     <hr>
+    <li>Navigation= Bir Web Sitesinde Bölümler Arası Geçiş İçin Oluşturulan Menü</li>
+    <hr>
+    <li>Null= Boş Karakter(Değeri Olmayan)</li>
+    <hr>
     <br>
     <li>Object= Nesne</li>
+    <hr>
+    <li>Object-Oriented Programming= Nesne Yönelimli Programlama</li>
     <hr>
     <li>Offset= Kaydır</li>
     <hr>
@@ -568,6 +602,8 @@
     <li>Scroll Bar= Kaydırma Çubuğu</li>
     <hr>
     <li>Scroll Box= Kaydırma Kutusu</li>
+    <hr>
+    <li>SEO(Search Engine Optimization)= Arama Motoru Optimizasyonu</li>
     <hr>
     <li>Section Break= Bölüm Sonu</li>
     <hr>
@@ -735,6 +771,8 @@
     <li>Virtual Drive= Varsayılan Sürücü, Sanal Sürücü</li>
     <hr>
     <li>Virtual PC= Sanal Bilgisayar</li>
+    <hr>
+    <li>Virtual Machine= Sanal Makine</li>
     <hr>
     <li>Virus= Virüs</li>
     <hr>
