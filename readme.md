@@ -755,6 +755,8 @@
     <li>WAGMI(We All Gonna Make It)= Hepimiz Başaracağız.</li>
     <hr>
     <br>
-    <br>
     <li>ZIP= Sıkıştırılmış Dosyalar</li>
 </ul>
+
+## Author
+[Buse Nur Çetin](https://github.com/busenurcetin)
