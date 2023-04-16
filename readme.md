@@ -1,6 +1,6 @@
  <h1> İngilizce-Türkçe Yazılım Terimleri</h1>
  
-
+![softww](https://user-images.githubusercontent.com/110244548/232296341-1dcf5525-92d4-4e99-b80c-c251bb111339.jpeg)
 
   ## Yazılım Dünyasında Sık Kullanılan İngilizce Yazılım Terimlerinin Türkçe Tercümesi
  <h3>Yazılıma Yeni Başlayan Ya Da Bir Süredir Sektörün İçinde Olup Hala Yazılım Terimlerine Hakim Olmadığını Düşünen Arkadaşlara Yardımcı Olması, Faydalı Bir Kaynak Olması Dileğiyle. Yeni Kelimeler ve Tercümeleri Eklenmeye Devam Edecek. Kaynak Genişletilecektir.</h3>
