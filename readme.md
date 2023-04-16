@@ -8,7 +8,7 @@
  <br>
 
 <ul type="square">
-    <li>Abort= Durdurmak</li>
+    <li>Abort= Durdurmak,Sonlandırmak</li>
     <hr>
     <li>About= Hakkında</li>
     <hr>
@@ -20,7 +20,7 @@
     <hr>
     <li>Adware= Reklam İçeren Bilgisayar Yazılımı</li>
     <hr>
-    <li>Advenced= Gelişmiş</li>
+    <li>Advanced= Gelişmiş</li>
     <hr>
     <li>Administrators= Yöneticiler</li>
     <hr>
@@ -80,7 +80,7 @@
     <hr>
     <li>Body= Gövde</li>
     <hr>
-    <li>Boolen= Mantıksal</li>
+    <li>Boolean= Mantıksal(Değeri Sadece 1 Ya Da 0 Yani True Veya False Olabilen Değişken)</li>
     <hr>
     <br>
     <br>
@@ -138,6 +138,8 @@
     <hr>
     <li>Continue= Devam Etmek</li>
     <hr>
+    <li>Concatenate= Birleştirmek,Bağlamak</li>
+    <hr>
     <li>Copy= Kopyalamak</li>
     <hr>
     <li>Corrupt= Bozuk</li>
@@ -159,6 +161,8 @@
     <li>Closed Network= Kapalı Ağlar</li>
     <hr>
     <li>Cloud= Bulut</li>
+    <hr>
+    <li>Client Side= Kullanıcı Taraflı Test</li>
     <hr>
     <li>CSS(Cascading Style Sheets)= Basamaklı Stil Sayfası</li>
     <hr>
@@ -366,6 +370,8 @@
     <hr>
     <li>Integration= İntegrasyon</li>
     <hr>
+    <li>Input= Girdi</li>
+    <hr>
     <li>Ignore= Yoksay</li>
     <hr>
     <li>I Work As Developer= Geliştirici Olarak Çalışıyorum.</li>
@@ -499,6 +505,8 @@
     <br>
     <li>Open-Source Software= Açık Kaynaklı Yazılım</li>
     <hr>
+    <li>Output= Çıktı</li>
+    <hr>
     <li>Optimization= Optimizasyon</li>
     <hr>
     <br>
@@ -577,6 +585,8 @@
     <hr>
     <li>Server= Sunucu</li>
     <hr>
+    <li>Server Side= Sunucu Taraflı Test</li>
+    <hr>
     <li>Setup= Kurulum</li>
     <hr>
     <li>Skip= Atla</li>
@@ -615,7 +625,7 @@
     <hr>
     <li>Spreadsheet= Elektronik Tablo Programı</li>
     <hr>
-    <li>Spyware= Dasus yazılım</li>
+    <li>Spyware= Casus yazılım</li>
     <hr>
     <li>Status= Durum</li>
     <hr>
@@ -750,7 +760,7 @@
     <hr>
     <li>Wrap Text= Metni Kaydır</li>
     <hr>
-    <li>WYSIWYG (What You See Is What You Het)= Ne Görüyorsan Sonuç Olarak Onu Alırsın.</li>
+    <li>WYSIWYG (What You See Is What You Get)= Ne Görüyorsan Sonuç Olarak Onu Alırsın.</li>
     <hr>
     <li>WAGMI(We All Gonna Make It)= Hepimiz Başaracağız.</li>
     <hr>
