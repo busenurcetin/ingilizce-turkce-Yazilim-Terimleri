@@ -1,4 +1,6 @@
  <h1> İngilizce-Türkçe Yazılım Terimleri</h1>
+ 
+
 
   ## Yazılım Dünyasında Sık Kullanılan İngilizce Yazılım Terimlerinin Türkçe Tercümesi
  <h3>Yazılıma Yeni Başlayan Ya Da Bir Süredir Sektörün İçinde Olup Hala Yazılım Terimlerine Hakim Olmadığını Düşünen Arkadaşlara Yardımcı Olması, Faydalı Bir Kaynak Olması Dileğiyle. Yeni Kelimeler ve Tercümeleri Eklenmeye Devam Edecek. Kaynak Genişletilecektir.</h3>
