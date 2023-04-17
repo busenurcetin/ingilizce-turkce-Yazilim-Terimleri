@@ -76,6 +76,8 @@
     <hr>
     <li>Brand New= Yepyeni </li>
     <hr>
+    <li>Branch= Dal </li>
+    <hr>
     <li>Browser= Tarayıcı </li>
     <hr>
     <li>Bug= Böcek/Hata</li>
@@ -522,6 +524,8 @@
     <li>Print Area= Yazdırma Alanı</li>
     <hr>
     <li>Problem Reports And Solutions= Sorun Raporları Ve Çözümler</li>
+    <hr>
+    <li>Production= Üretim</li>
     <hr>
     <li>Promotion= Terfi</li>
     <hr>
