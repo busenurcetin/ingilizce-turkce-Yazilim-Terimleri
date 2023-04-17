@@ -216,6 +216,10 @@
     <hr>
     <li>Development= Geliştirme</li>
     <hr>
+    <li>Production= Canlı ortam</li>
+    <hr>
+    <li>Build= Yapım</li>
+    <hr>
     <li>Disable= Etkisiz Hale Getirmek</li>
     <hr>
     <li>Discard= Programda Yaptıklarından Vazgeçmek</li>
@@ -763,6 +767,8 @@
     <li>Version= Sürüm</li>
     <hr>
     <li>Version Control= Sürüm Kontrolü</li>
+    <hr>
+    <li>Branch= Dal</li>
     <hr>
     <li>Video Editing Software= Video Düzenleme Yazılımı</li>
     <hr>
