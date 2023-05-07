@@ -39,7 +39,7 @@
     <hr>
     <li>Application= Uygulama</li>
     <hr>
-    <li>API= Bir Bilgisayar Sistemi Tarafından Nasıl İşlenip Saklanabileceklerini Belirleyen Değerlerin Bir Kategorizasyonu Olan "Veri Türü"</li>
+    <li>API= Bir Yazılımın Başka Bir Yazılımda Tanımlanmış İşlevlerini Kullanabilmesi İçin Oluşturulmuş Bir Tanım Bütünü</li>
     <hr>
     <li>Archive= Arşivlemek</li>
     <hr>
