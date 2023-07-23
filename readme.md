@@ -19,6 +19,10 @@
     <hr>
     <li>Abbreviate= Kısaltmak</li>
     <hr>
+    <li>Access= Erişmek</li>
+    <hr>
+    <li>Accesibility= Erişilirlik</li>
+    <hr>
     <li>Add-On= Eklenti</li>
     <hr>
     <li>Access= Erişim</li>
@@ -26,6 +30,8 @@
     <li>Adware= Reklam İçeren Bilgisayar Yazılımı</li>
     <hr>
     <li>Advanced= Gelişmiş</li>
+    <hr>
+    <li>Alternative= Seçenek</li>
     <hr>
     <li>Administrators= Yöneticiler</li>
     <hr>
@@ -46,6 +52,8 @@
     <li>Argument= Değişken</li>
     <hr>
     <li>Array= Dizi</li>
+    <hr>
+    <li>Artificial Intelligence= Yapay Zeka</li>
     <hr>
     <li>Attribute= Nitelik, Bir Nesnenin, Öğenin Veya Dosyanın Bir Özelliğini Tanımlar.</li>
     <hr>
@@ -107,6 +115,8 @@
     <hr>
     <li>Capture	= Yakalamak (Ekran Görüntüsü)</li>
     <hr>
+    <li>CASE(Computer Aided Systems Engineering)	= Bilgisayar Destekli Sistem Mühendisliği</li>
+    <hr>
     <li>Check Box= İşaret Kutusu</li>
     <hr>
     <li>Child= Alt Öge</li>
@@ -116,6 +126,18 @@
     <li>Collaboration= İşbirliği</li>
     <hr>
     <li>Combine= Birleştirmek</li>
+    <hr>
+    <li>Compatibility= Uyumluluk</li>
+    <hr>
+    <li>Compile= Derlemek</li>
+    <hr>
+    <li>Compiler= Derleyici</li>
+    <hr>
+    <li>Compute= Hesaplamak</li>
+    <hr>
+    <li>Connect= Bağlanmak</li>
+    <hr>
+    <li>Connection= Bağlantı</li>
     <hr>
     <li>Cookie= Çerez, Bir Web Sitesini Ziyaret Ettikten Sonra Web Tarayıcın Tarafından Kaydedilen Bilgi</li>
     <hr>
@@ -520,6 +542,8 @@
     <hr>
     <li>Port= Giriş, Soket Veya Bağlantı Noktası</li>
     <hr>
+    <li>Popup Blocker= Açılır Pencere Engelleyici</li>
+    <hr>
     <li>Plaintext= Düz Metin</li>
     <hr>
     <li>Preferences= Tercihler</li>
@@ -575,6 +599,8 @@
     <li>Reload= Yeniden Yükle</li>
     <hr>
     <li>Release= Yayınlanma/Çıkış</li>
+    <hr>
+    <li>Release Notes= Sürüm Notları</li>
     <hr>
     <li>Remote Control Software= Uzaktan Yönetim Programı</li>
     <hr>
@@ -735,6 +761,8 @@
     <li>Troubleshooting= Donanım, Yazılım, Ağlar Ve Sistem Performansı İle İlgili Sorunların Tanımlanması Ve Çözülmesi.</li>
     <hr>
     <li>TTS (Text To Speech)= Metin Okuma</li>
+    <hr>
+    <li>Thumbnails = Küçük Resimler</li>
     <hr>
     <li>Tweak= İnce Ayar</li>
     <hr>
