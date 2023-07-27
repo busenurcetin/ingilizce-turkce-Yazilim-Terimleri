@@ -8,7 +8,7 @@
 ![softww](https://user-images.githubusercontent.com/110244548/232296341-1dcf5525-92d4-4e99-b80c-c251bb111339.jpeg)
 
   ## Yazılım Dünyasında Sık Kullanılan İngilizce Yazılım Terimlerinin Türkçe Tercümesi
- <h3>Yazılıma Yeni Başlayan Ya Da Bir Süredir Sektörün İçinde Olup Hala Yazılım Terimlerine Hakim Olmadığını Düşünen Arkadaşlara Yardımcı Olması, Faydalı Bir Kaynak Olması Dileğiyle. Yeni Kelimeler ve Tercümeleri Eklenmeye Devam Edecek. Kaynak Genişletilecektir.</h3>
+ <h3>Yazılıma yeni başlayan ya da bir süredir sektörün içinde olup hala yazılım terimlerine hakim olmadığını düşünen arkadaşlara yardımcı olması, faydalı bir kaynak olması dileğiyle. Yeni kelimeler, deyimler ve tercümeleri eklenmeye devam edecek ve kaynak güncel tutalacaktır.</h3>
  <br>
  <br>
 
@@ -842,6 +842,38 @@
     <br>
     <li>ZIP= Sıkıştırılmış Dosyalar</li>
 </ul>
+
+
+<h1>İngilizce-Türkçe Yazılım Deyimleri </h1>
+
+ <h3>Bu kısım yazılım dünyasında sık kullanılan deyimler, cümleler, tabirlerden oluşmaktadır.</h3>
+
+ <ul>
+    <li>WAGMI(We All Gonna Make It)= Hepimiz Başaracağız.</li>
+    <hr>
+    <li>Programming is the ultimate form of problem-solving. = Programlama, en üst düzeyde sorun çözme şeklidir.</li>
+    <hr>
+    <li>Code is like magic; it makes things happen with just a few keystrokes.= Kod, sihir gibidir; sadece birkaç tuş vuruşuyla işler oluşturur.</li>
+    <hr>
+    <li>Great code is not just functional; it's also elegant and beautiful. = Harika kod, sadece işlevsel değil, aynı zamanda zarif ve güzeldir.</li>
+    <hr>
+    <li>Coding is a dance between logic and creativity. = Kodlama, mantık ile yaratıcılık arasında bir dans gibidir.</li>
+    <hr>
+    <li>The best programmers are not only skilled in code but also in empathy. = En iyi programcılar, sadece kodda değil, empati konusunda da uzmanlaşmışlardır.</li>
+    <hr>
+    <li>Coding is the art of making the machine understand your thoughts.= Kodlama, makinenin düşüncelerinizi anlamasının sanatıdır.</li>
+    <hr>
+    <li>Programmers don't find bugs; they find hidden features. = Programcılar hata bulmaz; gizli özellikler bulur.</li>
+    <hr>
+    <li>Code is the language in which we communicate with computers. = Kod, bilgisayarlarla iletişim kurduğumuz dildir.</li>
+    <hr>
+    <li>In coding, simplicity is the ultimate sophistication. = Kodlamada, basitlik en yüce zarafettir.</li>
+    <hr>
+    <li>The power of code lies in its ability to create something from nothing. = Kodun gücü, hiçbir şeyden bir şey yaratma yeteneğindedir.</li>
+    <hr>
+    <li>A program is like a story; it has a beginning, middle, and end. = Bir program bir hikayeye benzer; bir başlangıcı, ortası ve sonu vardır.</li>
+    <hr>
+ </ul>
 
 ## Author
 [Buse Nur Çetin](https://github.com/busenurcetin)
