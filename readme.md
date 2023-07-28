@@ -8,7 +8,7 @@
 ![softww](https://user-images.githubusercontent.com/110244548/232296341-1dcf5525-92d4-4e99-b80c-c251bb111339.jpeg)
 
   ## Yazılım Dünyasında Sık Kullanılan İngilizce Yazılım Terimlerinin Türkçe Tercümesi
- <h3>Yazılıma yeni başlayan ya da bir süredir sektörün içinde olup hala yazılım terimlerine hakim olmadığını düşünen arkadaşlara yardımcı olması, faydalı bir kaynak olması dileğiyle. Yeni kelimeler, deyimler ve tercümeleri eklenmeye devam edecek ve kaynak güncel tutalacaktır.</h3>
+ <h3>Yazılıma yeni başlayan ya da bir süredir sektörün içinde olup hala yazılım terimlerine hakim olmadığını düşünenlere bir kaynak olması amacıyla, sözlük niteliğinde olması planlanarak oluşturulmuş bir projedir. Yeni kelimeler, deyimler ve tercümeleri eklenmeye devam edecek ve kaynak güncel tutalacaktır.</h3>
  <br>
  <br>
 
@@ -843,6 +843,8 @@
     <li>ZIP= Sıkıştırılmış Dosyalar</li>
 </ul>
 
+<br>
+<br>
 
 <h1>İngilizce-Türkçe Yazılım Deyimleri </h1>
 
@@ -851,29 +853,285 @@
  <ul>
     <li>WAGMI(We All Gonna Make It)= Hepimiz Başaracağız.</li>
     <hr>
+    <br>
     <li>Programming is the ultimate form of problem-solving. = Programlama, en üst düzeyde sorun çözme şeklidir.</li>
     <hr>
+    <br>
     <li>Code is like magic; it makes things happen with just a few keystrokes.= Kod, sihir gibidir; sadece birkaç tuş vuruşuyla işler oluşturur.</li>
     <hr>
+    <br>
     <li>Great code is not just functional; it's also elegant and beautiful. = Harika kod, sadece işlevsel değil, aynı zamanda zarif ve güzeldir.</li>
     <hr>
+    <br>
     <li>Coding is a dance between logic and creativity. = Kodlama, mantık ile yaratıcılık arasında bir dans gibidir.</li>
     <hr>
+    <br>
     <li>The best programmers are not only skilled in code but also in empathy. = En iyi programcılar, sadece kodda değil, empati konusunda da uzmanlaşmışlardır.</li>
     <hr>
+    <br>
     <li>Coding is the art of making the machine understand your thoughts.= Kodlama, makinenin düşüncelerinizi anlamasının sanatıdır.</li>
     <hr>
+    <br>
     <li>Programmers don't find bugs; they find hidden features. = Programcılar hata bulmaz; gizli özellikler bulur.</li>
     <hr>
+    <br>
     <li>Code is the language in which we communicate with computers. = Kod, bilgisayarlarla iletişim kurduğumuz dildir.</li>
     <hr>
+    <br>
     <li>In coding, simplicity is the ultimate sophistication. = Kodlamada, basitlik en yüce zarafettir.</li>
     <hr>
+    <br>
     <li>The power of code lies in its ability to create something from nothing. = Kodun gücü, hiçbir şeyden bir şey yaratma yeteneğindedir.</li>
     <hr>
+    <br>
     <li>A program is like a story; it has a beginning, middle, and end. = Bir program bir hikayeye benzer; bir başlangıcı, ortası ve sonu vardır.</li>
     <hr>
+    <br>
+    <li>Coding is the bridge between imagination and reality. = Kodlama, hayal ile gerçek arasındaki köprüdür</li>
+    <hr>
+    <br>
+    <li>Code is a reflection of the programmer's mind. = Kod, programcının zihninin yansımasıdır.</li>
+    <hr>
+    <br>
+    <li>The most powerful tool in a programmer's arsenal is curiosity. = Bir programcının silahında en güçlü araç meraklı olmaktır.</li>
+    <hr>
+    <br>
+    <li>Code is the melody of the digital world. = Kod, dijital dünyanın melodisidir.</li>
+    <hr>
+    <br>
+    <li>Programming is the art of bringing dreams to life through code. = Programlama, kod ile hayalleri gerçeğe dönüştürme sanatıdır.</li>
+    <hr>
+    <br>
+    <li>The best code is like a well-crafted poem; it flows effortlessly and leaves a lasting impression. = En iyi kod, ustaca yazılmış bir şiir gibidir; akıcı ve kalıcı bir iz bırakır.</li>
+    <hr>
+    <br>
+    <li>Coding is not just a skill; it's a way of thinking and problem-solving. = Kodlama sadece bir beceri değil, düşünme ve sorun çözme şeklidir.</li>
+    <hr>
+    <br>
+    <li>Code is the language that enables machines to understand and execute our desires. = Kod, makinelerin isteklerimizi anlamasını ve gerçekleştirmesini sağlayan dildir.</li>
+    <hr>
+    <br>
+    <li>Programming is the art of turning logic into action. = Programlama, mantığı eyleme dönüştürme sanatıdır.</li>
+    <hr>
+    <br>
+    <li>Code is the building block of the digital world. = Kod, dijital dünyanın yapı taşıdır.</li>
+    <hr>
+    <br>
+    <li>Coding is the playground where imagination meets reality. = Kodlama, hayal gücünün gerçeklikle buluştuğu oyun alanıdır.</li>
+    <hr>
+    <br>
+    <li>Great code is like a well-crafted painting; it tells a story and evokes emotions. = Harika kod, ustaca yapılmış bir resim gibidir; bir hikaye anlatır ve duyguları harekete geçirir.</li>
+    <hr>
+    <br>
+    <li>Code is the instrument through which we compose the symphony of technology. = Kod, teknolojinin senfonisini yazdığımız enstrümandır.</li>
+    <hr>
+    <br>
+    <li>Programming is the dance of logic and creativity, where ideas come to life in the form of code. = Programlama, mantığın ve yaratıcılığın dansıdır, fikirler kod şeklinde hayat bulur.</li>
+    <hr>
+    <br>
+    <li>Code like a pro, think like a machine. = Profesyonel gibi kodla, makine gibi düşün.</li>
+    <hr>
+    <br>
+    <li>Code is a language, elegance is its poetry. = Kod bir dil, zarafet ise onun şiiri.</li>
+    <hr>
+    <br>
+    <li>Debugging is being a detective in a crime movie where you're also the culprit. = Hata ayıklamak, bir suç filmi dedektifi olmak ve aynı zamanda suçlunun kendisi olmaktır.</li>
+    <hr>
+    <br>
+    <li>The greatest developers are also great artists. = En iyi geliştiriciler aynı zamanda büyük sanatçılardır.</li>
+    <hr>
+    <br>
+    <li>Coding is not just a task, it's a way of thinking. = Kodlama sadece bir görev değil, düşünme biçimidir.</li>
+    <hr>
+    <br>
+    <li>In code we trust, in bugs we doubt. = Kodda güveniriz, hatalarda şüphe ederiz.</li>
+    <hr>
+    <br>
+    <li>Software development is an endless journey of learning and improvement. = Yazılım geliştirme, sürekli öğrenme ve gelişme yolculuğudur.</li>
+    <hr>
+    <br>
+    <li>Code without fear, but with respect for others who will read it.= Kodlama korkusuzca yapın, ancak onu okuyacak olanlara saygı gösterin.</li>
+    <hr>
+    <br>
+    <li>Efficiency through simplicity. = Basitlikle etkinlik.</li>
+    <hr>
+    <br>
+    <li>The key to good code is not writing code but rather solving problems. = İyi kodun anahtarı, kod yazmak değil, sorunları çözmektir.</li>
+    <hr>
+    <br>
+    <li>The art of debugging is figuring out what you really told your program to do instead of what you thought you told it to do. = Hata ayıklamanın sanatı, programınıza ne yaptığınızı düşündüğünüzden ziyade gerçekte ne yaptığınızı anlamaktır.</li>
+    <hr>
+    <br>
+    <li>Your code is your legacy, make it a masterpiece. = Kodunuz mirasınızdır, onu bir başyapıt yapın.</li>
+    <hr>
+    <br>
+    <li>Programming is like playing chess with a computer; you need to think three steps ahead. = Programlama, bir bilgisayarla satranç oynamaya benzer; üç adım önceden düşünmeniz gerekir.</li>
+    <hr>
+    <br>
+    <li>Programming is the closest thing we have to magic in the real world. = Programlama, gerçek dünyadaki sihre en yakın şeydir.</li>
+    <hr>
+    <br>
+    <li>Great software is not built, it's crafted. = Harika yazılım inşa edilmez, yapılandırılır.</li>
+    <hr>
+    <br>
+    <li>The best code is not the one with the fewest lines, but the one that communicates the most effectively. = En iyi kod, en az satıra sahip olan değil, en etkili şekilde iletişim kuran kodlardır.</li>
+    <hr>
+    <br>
+    <li>Algorithms are the poetry of logic. = Algoritmalar mantığın şiiridir.</li>
+    <hr>
+    <br>
+    <li>Software development is a team sport, not a solo performance. = Yazılım geliştirme bir takım sporudur, bireysel bir performans değildir.</li>
+    <hr>
+    <br>
+    <li>Good code is self-documenting; the comments are just footnotes. = İyi kod kendi kendini açıklar; yorumlar sadece dipnotlardır.</li>
+    <hr>
+    <br>
+    <li>Every great developer you know got there by solving problems they were unqualified to solve until they actually did it. = Bildiğiniz her büyük geliştirici, gerçekten başardıklarında çözmeye uygun olmadıkları sorunları çözerek oraya ulaştı.</li>
+    <hr>
+    <br>
+    <li>Computers are incredibly fast, accurate, and stupid; humans are incredibly slow, inaccurate, and brilliant; together they are powerful beyond imagination. = Bilgisayarlar inanılmaz derecede hızlı, doğru ve aptaldır; insanlar inanılmaz derecede yavaş, yanıltıcı ve parlaktır; birlikte hayal gücünün ötesinde güçlüdürler.</li>
+    <hr>
+    <br>
+    <li>Embrace constraints, they fuel creativity. = Kısıtlamalara sahip olmaktan korkma, onlar yaratıcılığı tetikler.</li>
+    <hr>
+    <br>
+    <li>Coding is the canvas, and your mind is the brush. = Kodlama bir tuvaldir ve zihnin fırçasıdır.</li>
+    <hr>
+    <br>
+    <li>In the world of programming, the only constant is change. = Programlama dünyasında tek sabit değişimdir.</li>
+    <hr>
+    <br>
+    <li>Programming is the art of turning logic into magic. = Programlama, mantığı sihre dönüştürme sanatıdır.</li>
+    <hr>
+    <br>
+    <li>The best software is the one you don't notice; it's just there, making your life easier. = En iyi yazılım, fark etmediğiniz yazılımdır; sadece oradadır ve hayatınızı kolaylaştırır.</li>
+    <hr>
+    <br>
+    <li>Code with the heart, debug with the mind =  Kodu kalple yaz, hata ayıklamayı zihinle yap.</li>
+    <hr>
+    <br>
+    <li>Code is like humor. When you have to explain it, it’s bad = Kod, espri gibidir. Açıklamanız gerektiğinde kötüdür.</li>
+    <hr>
+    <br>
+    <li>Don’t be afraid to refactor = Yeniden yapılandırmaktan korkma.</li>
+    <hr>
+    <br>
+    <li>The best code is no code = En iyi kod hiç kod değildir.</li>
+    <hr>
+    <br>
+    <li>The code you write is only as good as the test you wrote = Yazdığınız kod, yazdığınız test kadar iyidir.</li>
+    <hr>
+    <br>
+    <li>Don't optimize prematurely = Önemsiz şekilde iyileştirmeyin.</li>
+    <hr>
+    <br>
+    <li>The sooner you start coding, the longer the program will take = Kodlamaya ne kadar erken başlarsanız, program o kadar uzun sürecek.</li>
+    <hr>
+    <br>
+    <li>Code should be elegant and efficient = Kod zarif ve verimli olmalıdır.</li>
+    <hr>
+    <br>
+    <li>The only bug-free code is no code = Tek hatasız kod, hiç kod değildir.</li>
+    <hr>
+    <br>
+    <li>Always code as if the person who ends up maintaining your code is a violent psychopath who knows where you live = Her zaman kodu, kodunuzu sürdüren kişinin, nerede yaşadığınızı bilen şiddet yanlısı bir psikopat gibi kodlayın.</li>
+    <hr>
+    <br>
+    <li>The best programmers are not problem solvers; they are problem preventers = En iyi programcılar, problem çözücüler değil; problem önleyicilerdir.</li>
+    <hr>
+    <br>
+    <li>Garbage in, garbage out (GIGO) = Girdi çöpse çıktı da çöptür.</li>
+    <hr>
+    <br>
+    <li>Don't repeat yourself (DRY) = Kendini tekrar etme.</li>
+    <hr>
+    <br>
+    <li>Code is poetry = Kod şiirdir.</li>
+    <hr>
+    <br>
+    <li>Think algorithmically = Algoritmik düşün.</li>
+    <hr>
+    <br>
+    <li>Fail fast, fail often = Hızlıca başarısız ol, sık sık başarısız ol.</li>
+    <hr>
+    <br>
+    <li>Eat, sleep, code, repeat = Ye, uyu, kodla, tekrarla.</li>
+    <hr>
+    <br>
+    <li>The only constant is change = Tek sabit olan değişimdir.</li>
+    <hr>
+    <br>
+    <li>In code we trust = Kodda güveniriz.</li>
+    <hr>
+    <br>
+    <li>Hack the planet = Gezegeni hackle.</li>
+    <hr>
+    <br>
+    <li>There's no place like 127.0.0.1 = 127.0.0.1 gibi bir yer yok.</li>
+    <hr>
+    <br>
+    <li>To be or not to be (boolean) = Olmak ya da olmamak (boolean).</li>
+    <hr>
+    <br>
+    <li>Talk is cheap, show me the code = Söz ucuzdur, bana kodu göster.</li>
+    <hr>
+    <br>
+    <li>Keep it simple, stupid (KISS) = Basit tut, aptal!</li>
+    <hr>
+    <br>
+    <li>Premature optimization is the root of all evil = Önemsiz iyileştirme tüm kötülüklerin kaynağıdır.</li>
+    <hr>
+    <br>
+    <li>The best error message is the one that never shows up = En iyi hata mesajı, hiç gözükmeyendir.</li>
+    <hr>
+    <br>
+    <li>Talk to your computer like you would talk to a person = Bilgisayara bir insan gibi konuş.</li>
+    <hr>
+    <br>
+    <li>A bug is not a feature = Bir hata bir özellik değildir.</li>
+    <hr>
+    <br>
+    <li>It works on my machine = Benim makinede çalışıyor.</li>
+    <hr>
+    <br>
+    <li>Real programmers count from 0 = Gerçek programcılar 0'dan sayar.</li>
+    <hr>
+    <br>
+    <li>There are 10 types of people in the world: Those who understand binary, and those who don't = Dünyada iki tür insan vardır: İkili sistemleri anlayanlar ve anlamayanlar.</li>
+    <hr>
+    <br>
+    <li>Code never lies, comments sometimes do = Kod asla yalan söylemez, yorumlar bazen yapar.</li>
+    <hr>
+    <br>
+    <li>The Internet: Where men are men, women are men, and children are FBI agents = İnternet: Burada erkekler erkektir, kadınlar erkektir ve çocuklar FBI ajanıdır.</li>
+    <hr>
+    <br>
+    <li>There's an exception to every rule, except this one = Her kuralın bir istisnası vardır, bu kural hariç.</li>
+    <hr>
+    <br>
+    <li>No code is faster than no code = Hiçbir kod, hiçbir koddan daha hızlı değildir.</li>
+    <hr>
+    <br>
+    <li>Code speaks louder than words = Kod sözlerden daha fazla konuşur.</li>
+    <hr>
+    <br>
+    <li>Software engineers: Turning coffee into code = Yazılım mühendisleri: Kahveyi koda dönüştürür.</li>
+    <hr>
+    <br>
+    <li>Without requirements or design, programming is the art of adding bugs to an empty text file = Gereksinim veya tasarım olmadan, programlama boş bir metin dosyasına hata eklemenin sanatıdır.</li>
+    <hr>
+    <br>
+    <li>There's always one more bug = Her zaman bir hata daha vardır.</li>
+    <hr>
+    <br>
+    <li>Any fool can write code that a computer can understand. Good programmers write code that humans can understand = Her ahmak, bir bilgisayarın anlayabileceği kodu yazabilir. İyi programcılar, insanların anlayabileceği kodu yazar.</li>
+    <hr>
+    <br>
+    <li>The first 90% of the code accounts for the first 90% of the development time. The remaining 10% of the code accounts for the other 90% of the development time = Kodun ilk %90'ı, geliştirme süresinin ilk %90'ını oluşturur. Kalan %10'luk kod ise geliştirme süresinin diğer %90'ını oluşturur.</li>
+    <hr>
  </ul>
+
+ <br>
 
 ## Author
 [Buse Nur Çetin](https://github.com/busenurcetin)
