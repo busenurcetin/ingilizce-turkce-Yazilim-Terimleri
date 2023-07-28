@@ -12,7 +12,7 @@
  <br>
  <br>
 
-<ul type="square">
+<ul type="square"> <h1> A </h1>
     <li>Abort= Durdurmak,Sonlandırmak</li>
     <hr>
     <li>About= Hakkında</li>
@@ -77,6 +77,7 @@
     <hr>
     <br>
     <br>
+    <h1> B </h1>
     <li>Back= Geri</li>
     <hr>
     <li>Backup= Yedekleme</li>
@@ -103,6 +104,7 @@
     <hr>
     <br>
     <br>
+    <h1> C </h1>
     <li>Cables= Kablolar</li>
     <hr>
     <li>Cables= Cache= Önbellek</li>
@@ -207,6 +209,7 @@
     <hr>
     <br>
     <br>
+    <h1> D </h1>
     <li>Dashboard= Gösterge Tablosu</li>
     <hr>
     <li>Database= Veri Tabanı</li>
@@ -265,6 +268,7 @@
     <hr>
     <br>
     <br>
+    <h1> E </h1>
     <li>Edit mode= Düzenleme Modu</li>
     <hr>
     <li>Encapsulation= Kapsülleme</li>
@@ -307,6 +311,7 @@
     <hr>
     <br>
     <br>
+    <h1> F </h1>
     <li>Factory Settings= Fabrika Ayarları</li>
     <hr>
     <li>Fail= Başarısız olma</li>
@@ -365,12 +370,14 @@
     <hr>
     <br>
     <br>
+    <h1> G </h1>
     <li>Game= Oyun</li>
     <hr>
     <li>Grammar Checker= Dilbilgisi Kontrol Edici</li>
     <hr>
     <br>
     <br>
+    <h1> H </h1>
     <li>Halt= Durdurma</li>
     <hr>
     <li>Hardware= Donanım</li>
@@ -393,6 +400,7 @@
     <hr>
     <br>
     <br>
+    <h1> I </h1>
     <li>Image Editor= Resim Düzenleyici</li>
     <hr>
     <li>Insert= Ekle, Araya Ekle, Yerleştir</li>
@@ -431,12 +439,14 @@
     <hr>
     <br>
     <br>
+    <h1> K </h1>
     <li>Kill= Durdur, Bağlantıyı Kes</li>
     <hr>
     <li>Keyword= Anahtar Sözcük</li>
     <hr>
     <br>
     <br>
+    <h1> L </h1>
     <li>Launch= Çalıştır</li>
     <hr>
     <li>LAN (Local Area Network)= Yerel Alan Ağı</li>
@@ -455,6 +465,7 @@
     <hr>
     <br>
     <br>
+    <h1> M </h1>
     <li>Macro Recorder= Makro Kaydedici</li>
     <hr>
     <li>Machine Language= Makine Dili</li>
@@ -489,6 +500,7 @@
     <hr>
     <br>
     <br>
+    <h1> N </h1>
     <li>Network= Ağ</li>
     <hr>
     <li>Network Security= Ağ Güvenliği</li>
@@ -500,6 +512,7 @@
     <li>Null= Boş Karakter(Değeri Olmayan)</li>
     <hr>
     <br>
+    <h1> O </h1>
     <li>Object= Nesne</li>
     <hr>
     <li>Object-Oriented Programming= Nesne Yönelimli Programlama</li>
@@ -518,6 +531,7 @@
     <hr>
     <br>
     <br>
+    <h1> P </h1>
     <li>Paint Brush= Boya Fırçası, Fırça</li>
     <hr>
     <li>Parameter= Parametre, Değişken</li>
@@ -570,6 +584,7 @@
     <hr>
     <br>
     <br>
+    <h1> O </h1>
     <li>Open-Source Software= Açık Kaynaklı Yazılım</li>
     <hr>
     <li>Output= Çıktı</li>
@@ -578,12 +593,14 @@
     <hr>
     <br>
     <br>
+    <h1> Q </h1>
     <li>QR Code= Karekod</li>
     <hr>
     <li>Quit= Çıkmak</li>
     <hr>
     <br>
     <br>
+    <h1> R </h1>
     <li>Radio button= Seçenek Düğmesi</li>
     <hr>
     <li>Rasterize= Pikselleştirmek</li>
@@ -626,6 +643,7 @@
     <hr>
     <br>
     <br>
+    <h1> S </h1>
     <li>Save= Kaydet</li>
     <hr>
     <li>Save As= Farklı Kaydet</li>
@@ -726,6 +744,7 @@
     <hr>
     <br>
     <br>
+    <h1> T </h1>
     <li>Tab= Sekme</li>
     <hr>
     <li>Target= Hedef</li>
@@ -768,6 +787,7 @@
     <hr>
     <br>
     <br>
+    <h1> U </h1>
     <li>Unarchive= Arşivden Çıkar</li>
     <hr>
     <li>Undelete= Silme İşlemini Geri Al</li>
@@ -789,6 +809,7 @@
     <li>Utility= Yardımcı Program</li>
     <hr>
     <br>
+    <h1> V </h1>
     <li>Valid= Geçerli</li>
     <hr>
     <li>Validity Check= Geçerlilik Kontrolü</li>
@@ -819,6 +840,7 @@
     <hr>
     <br>
     <br>
+    <h1> W </h1>
     <li>Warez= Telif Hakkı Olan Bir Programın İllegal Biçimde Paylaşılması</li>
     <hr>
     <li>Widget= Bilgisayar Ya Da Cep Telefonlarının Ekranlarında Bulunan Küçük Araçlar</li>
@@ -840,6 +862,7 @@
     <li>WAGMI(We All Gonna Make It)= Hepimiz Başaracağız.</li>
     <hr>
     <br>
+    <h1> Z </h1>
     <li>ZIP= Sıkıştırılmış Dosyalar</li>
 </ul>
 
