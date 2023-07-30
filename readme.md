@@ -35,6 +35,8 @@
     <hr>
     <li>Administrators= Yöneticiler</li>
     <hr>
+    <li>Agile = Çevik Yazılım Geliştirme</li>
+    <hr>
     <li>Analytics= Analizler</li>
     <hr>
     <li>Anchor= Bağlayıcı,Çapa</li>
@@ -55,6 +57,8 @@
     <hr>
     <li>Artificial Intelligence= Yapay Zeka</li>
     <hr>
+    <li>Assembler = Derleyici</li>
+    <hr>
     <li>Attribute= Nitelik, Bir Nesnenin, Öğenin Veya Dosyanın Bir Özelliğini Tanımlar.</li>
     <hr>
     <li>Auditing= Sistemlerin, Süreçlerin Ve Verilerin Gözden Geçirilmesiyle Düzenlemelere Ve Kurum İçi Politikalara Uygunluğun Doğrulanması.</li>
@@ -71,7 +75,11 @@
     <hr>
     <li>Autosave= Otomatik Kaydetme</li>
     <hr>
+    <li>Augmented Reality (AR) = Artırılmış Gerçeklik</li>
+    <hr>
     <li>Algorithm= Algoritma</li>
+    <hr>
+    <li>Algorithm Complexity = Algoritma Karmaşıklığı</li>
     <hr>
     <li>ASCII(American Standard Code For Information Interexchange)= 8 Bitlik Kodda bulunan Harfler, Sayılar Ve Diğer Karakterlere Farklı Yuvalar Atayan        Bir Standarttır.</li>
     <hr>
@@ -82,9 +90,17 @@
     <hr>
     <li>Backup= Yedekleme</li>
     <hr>
+    <li>Backpropagation = Geri Yayılım</li>
+    <hr>
     <li>Batch Processing= Toplu İşlem</li>
     <hr>
+    <li>Benchmark = Performans değerlendirmesi</li>
+    <hr>
+    <li>Black Hat Hacker = Siyah Şapkalı Hacker</li>
+    <hr>
     <li>Blockchain= İşlemleri Birden Fazla Ağda Güvenli, Şeffaf Ve Kalıcı Bir Şekilde Kaydeden Değişmez Bir Dijital Defter Oluşturmak.</li>
+    <hr>
+    <li>Bloatware = Aşırı şişirilmiş yazılım</li>
     <hr>
     <li>Bundled Software= Donanımla Birlikte Gelen Yazılım</li>
     <hr>
@@ -100,14 +116,24 @@
     <hr>
     <li>Body= Gövde</li>
     <hr>
+    <li>Booting = Başlatma</li>
+    <hr>
     <li>Boolean= Mantıksal(Değeri Sadece 1 Ya Da 0 Yani True Veya False Olabilen Değişken)</li>
+    <hr>
+    <li>Binary Search = İkili Arama</li>
+    <hr>
+    <li>Big Data = Büyük Veri</li>
+    <hr>
+    <li>BIOS = Temel Giriş/Çıkış Sistemi</li>
     <hr>
     <br>
     <br>
     <h1> C </h1>
     <li>Cables= Kablolar</li>
     <hr>
-    <li>Cables= Cache= Önbellek</li>
+    <li>Cache = Önbellek</li>
+    <hr>
+    <li>Cache Memory = Önbellek Hafıza</li>
     <hr>
     <li>CAD (Computer-Aided Design)= Bilgisayar Destekli Tasarım</li>
     <hr>
@@ -118,6 +144,8 @@
     <li>Capture	= Yakalamak (Ekran Görüntüsü)</li>
     <hr>
     <li>CASE(Computer Aided Systems Engineering)	= Bilgisayar Destekli Sistem Mühendisliği</li>
+    <hr>
+    <li>CDN = İçerik Dağıtım Ağı</li>
     <hr>
     <li>Check Box= İşaret Kutusu</li>
     <hr>
@@ -144,6 +172,10 @@
     <li>Cookie= Çerez, Bir Web Sitesini Ziyaret Ettikten Sonra Web Tarayıcın Tarafından Kaydedilen Bilgi</li>
     <hr>
     <li>Class= Sınıf</li>
+    <hr>
+    <li>Cloud Storage = Bulut Depolama</li>
+    <hr>
+    <li>Codebase = Kod tabanı</li>
     <hr>
     <li>Command bar= Komut Çubuğu</li>
     <hr>
@@ -177,6 +209,10 @@
     <hr>
     <li>Continue= Devam Etmek</li>
     <hr>
+    <li>Continuous Deployment/Delivery = Sürekli Dağıtım</li>
+    <hr>
+    <li>Continuous Integration (CI) = Sürekli Entegrasyon</li>
+    <hr>
     <li>Concatenate= Birleştirmek,Bağlamak</li>
     <hr>
     <li>Copy= Kopyalamak</li>
@@ -185,6 +221,8 @@
     <hr>
     <li>Crash= Çökmek, Arızalanmak</li>
     <hr>
+    <li>Crash Dump = Çöküş Dökümü</li>
+    <hr>
     <li>Crawl= Arama Robotu</li>
     <hr>
     <li>Create= Oluşturmak</li>
@@ -192,6 +230,8 @@
     <li>Critical Error= Kritik Hata</li>
     <hr>
     <li>Crop= Kırpmak</li>
+    <hr>
+    <li>CRUD(Create, Read, Update, Delete) = Oluşturma, Okuma, Güncelleme ve Silme</li>
     <hr>
     <li>Cut= Kesmek</li>
     <hr>
@@ -203,9 +243,17 @@
     <hr>
     <li>Cloud= Bulut</li>
     <hr>
+    <li>Cloud Computing = Bulut Bilişim</li>
+    <hr>
     <li>Client Side= Kullanıcı Taraflı Test</li>
     <hr>
+    <li>CLI = Komut Satırı Arayüzü</li>
+    <hr>
     <li>CSS(Cascading Style Sheets)= Basamaklı Stil Sayfası</li>
+    <hr>
+    <li>CPU = Merkezi İşlem Birimi</li>
+    <hr>
+    <li>Cybersecurity = Siber Güvenlik</li>
     <hr>
     <br>
     <br>
@@ -218,11 +266,19 @@
     <hr>
     <li>Data Protection= Veri Koruması</li>
     <hr>
+    <li>Data Privacy = Veri Gizliliği</li>
+    <hr>
     <li>Data Recovery= Veri Kurtarma</li>
+    <hr>
+    <li>Data Structure = Veri yapısı</li>
     <hr>
     <li>Data Validation= Veri Doğrulama</li>
     <hr>
+    <li>Data Visualization = Veri Görselleştirme</li>
+    <hr>
     <li>Data Mining= Data/Veri Madenciliği</li>
+    <hr>
+    <li>Dead Code = Ölü Kod</li>
     <hr>
     <li>Debugging= Sorun Giderme Süreci</li>
     <hr>
@@ -236,6 +292,14 @@
     <hr>
     <li>Demo= Tanıtım</li>
     <hr>
+    <li>DNS = Alan Adı Sistemi</li>
+    <hr>
+    <li>DNSSEC = Alan Adı Sistemi İçin Güvenlik Eklentisi</li>
+    <hr>
+    <li>Dependency = Bağımlılık</li>
+    <hr>
+    <li>Dependency Injection = Bağımlılık Enjeksiyonu</li>
+    <hr>
     <li>Desk= Çalışma Masası</li>
     <hr>
     <li>Desktop Computer= Masaüstü Bilgisayar</li>
@@ -248,6 +312,8 @@
     <hr>
     <li>Development= Geliştirme</li>
     <hr>
+    <li>DevOps(Development and Operations) = Geliştirme ve İşletme</li>
+    <hr>
     <li>Disable= Etkisiz Hale Getirmek</li>
     <hr>
     <li>Discard= Programda Yaptıklarından Vazgeçmek</li>
@@ -255,6 +321,8 @@
     <li>Discontinue= Durdurmak</li>
     <hr>
     <li>Diagnostics= Hata Belirleme, Teşhis Etme</li>
+    <hr>
+    <li>Digital Signature = Dijital İmza</li>
     <hr>
     <li>Document= Belge</li>
     <hr>
@@ -309,6 +377,8 @@
     <hr>
     <li>Eyedropper= Göz Damlası</li>
     <hr>
+    <li>Event-driven Programming = Olaya Dayalı Programlama</li>
+    <hr>
     <br>
     <br>
     <h1> F </h1>
@@ -348,6 +418,8 @@
     <hr>
     <li>Find= Bul</li>
     <hr>
+    <li>Firewall = Güvenlik Duvarı</li>
+    <hr>
     <li>Fix= Düzelt, Onar</li>
     <hr>
     <li>Floating toolbar= Kayan Araç Çubuğu</li>
@@ -375,6 +447,16 @@
     <hr>
     <li>Grammar Checker= Dilbilgisi Kontrol Edici</li>
     <hr>
+    <li>Graph Database = Grafik Veritabanı</li>
+    <hr>
+    <li>Gateway = Ağ geçidi</li>
+    <hr>
+    <li>GUI = Grafiksel Kullanıcı Arayüzü</li>
+    <hr>
+    <li>GPU = Grafik İşlemcisi</li>
+    <hr>
+    <li>Git = Sürüm Kontrol Sistemi</li>
+    <hr>
     <br>
     <br>
     <h1> H </h1>
@@ -384,9 +466,15 @@
     <hr>
     <li>Handler= İşleyici</li>
     <hr>
+    <li>Hardware = Donanım</li>
+    <hr>
+    <li>Hashing = Karma Fonksiyonu</li>
+    <hr>
     <li>Head clean= Kafa Temizleme (Yazıcı)</li>
     <hr>
     <li>Head Office= Ana Ofis</li>
+    <hr>
+    <li>High Availability = Yüksek Kullanılabilirlik</li>
     <hr>
     <li>Highlight= Vurgulama</li>
     <hr>
@@ -398,9 +486,13 @@
     <hr>
     <li>HTML(Hypertext Markup Language)= Bağlantılı Metin İşaretleme/Web Sayfası Yazım Dili</li>
     <hr>
+    <li>HTTPS = Güvenli HTTP</li>
+    <hr>
     <br>
     <br>
     <h1> I </h1>
+    <li>IDE = Entegre Geliştirme Ortamı</li>
+    <hr>
     <li>Image Editor= Resim Düzenleyici</li>
     <hr>
     <li>Insert= Ekle, Araya Ekle, Yerleştir</li>
@@ -411,6 +503,8 @@
     <hr>
     <li>Interactive= Etkileşimli, İnteraktif</li>
     <hr>
+    <li>Internet Security = İnternet Güvenliği</li>
+    <hr>
     <li>Insect= Böcek</li>
     <hr>
     <li>Instructors= Eğitmenler</li>
@@ -419,11 +513,15 @@
     <hr>
     <li>Implementation= Uygulama</li>
     <hr>
+    <li>Integer = Tam sayı</li>
+    <hr>
     <li>IT= Bilgi İletişim Teknolojileri</li>
     <hr>
     <li>Interface= Arayüz</li>
     <hr>
     <li>Interpreter= Yorumlayıcı</li>
+    <hr>
+    <li>Internet of Things (IoT) = Nesnelerin İnterneti</li>
     <hr>
     <li>Integration= İntegrasyon</li>
     <hr>
@@ -437,10 +535,16 @@
     <hr>
     <li>IP Address= İnternet İletişim Kuralı Adresi</li>
     <hr>
+    <li>IPv4 = Internet Protocol Version 4</li>
+    <hr>
+    <li>IPv6 = Internet Protocol Version 6</li>
+    <hr>
     <br>
     <br>
     <h1> K </h1>
     <li>Kill= Durdur, Bağlantıyı Kes</li>
+    <hr>
+    <li>Kernel Mode = Çekirdek Modu</li>
     <hr>
     <li>Keyword= Anahtar Sözcük</li>
     <hr>
@@ -450,6 +554,8 @@
     <li>Launch= Çalıştır</li>
     <hr>
     <li>LAN (Local Area Network)= Yerel Alan Ağı</li>
+    <hr>
+    <li>Latency = Gecikme süresi</li>
     <hr>
     <li>License= Lisans</li>
     <hr>
@@ -469,6 +575,8 @@
     <li>Macro Recorder= Makro Kaydedici</li>
     <hr>
     <li>Machine Language= Makine Dili</li>
+    <hr>
+    <li>Machine Vision = Makine Görüşü</li>
     <hr>
     <li>Maintenance= Bakım</li>
     <hr>
@@ -490,32 +598,48 @@
     <hr>
     <li>Memory Leak= Bellek Sızıntısı</li>
     <hr>
+    <li>Microservices = Mikro hizmetler</li>
+    <hr>
     <li>Midterm Exam= Dönem Ortası Sınavı</li>
     <hr>
     <li>Middleware= Özel Yazılım</li>
     <hr>
     <li>Migration= Veri Bütünlüğünü Koruyarak Bir Platformdan, İşletim Sisteminden Veya Veritabanından Diğerine Geçme.</li>
     <hr>
+    <li>Multithreading = Çoklu iş parçacığı</li>
+    <hr>
+    <li>Mobile Development = Mobil Uygulama Geliştirme</li>
+    <hr>
     <li>Monitor= Monitör/Ekran</li>
     <hr>
     <br>
     <br>
     <h1> N </h1>
+    <li>Natural Language Processing (NLP) = Doğal Dil İşleme</li>
+    <hr>
     <li>Network= Ağ</li>
     <hr>
     <li>Network Security= Ağ Güvenliği</li>
     <hr>
-    <li>Narrow= Dar</li>
+    <li>Network Protocol = Ağ Protokolü</li>
+    <hr>
+    <li>Neural Network = Yapay Sinir Ağı</li>
     <hr>
     <li>Navigation= Bir Web Sitesinde Bölümler Arası Geçiş İçin Oluşturulan Menü</li>
     <hr>
     <li>Null= Boş Karakter(Değeri Olmayan)</li>
     <hr>
+    <li>NoSQL = İlişkisel Olmayan Veritabanı</li>
+    <hr>
     <br>
     <h1> O </h1>
+    <li>OAuth = Kimlik Doğrulama ve Yetkilendirme</li>
+    <hr>
     <li>Object= Nesne</li>
     <hr>
     <li>Object-Oriented Programming= Nesne Yönelimli Programlama</li>
+    <hr>
+    <li>Object Detection = Nesne Algılama</li>
     <hr>
     <li>Offset= Kaydır</li>
     <hr>
@@ -523,11 +647,21 @@
     <hr>
     <li>Open Source= Açık Kaynak</li>
     <hr>
+    <li>Operator Overloading = Operatör Yüklemesi</li>
+    <hr>
     <li>Optimization= İyileştirme, En Uygun Duruma Getirme</li>
     <hr>
     <li>Optimize= İyileştirmek</li>
     <hr>
     <li>Option= Seçenek</li>
+    <hr>
+    <li>Open-Source Software= Açık Kaynaklı Yazılım</li>
+    <hr>
+    <li>Operating System = İşletim Sistemi</li>
+    <hr>
+    <li>Output= Çıktı</li>
+    <hr>
+    <li>Optimization= Optimizasyon</li>
     <hr>
     <br>
     <br>
@@ -558,7 +692,11 @@
     <hr>
     <li>Popup Blocker= Açılır Pencere Engelleyici</li>
     <hr>
+    <li>Polymorphism = Çok Biçimlilik</li>
+    <hr>
     <li>Plaintext= Düz Metin</li>
+    <hr>
+    <li>Platform as a Service (PaaS) = Platform Olarak Hizmet</li>
     <hr>
     <li>Preferences= Tercihler</li>
     <hr>
@@ -572,6 +710,8 @@
     <hr>
     <li>Promotion= Terfi</li>
     <hr>
+    <li>Protocol = Protokol</li>
+    <hr>
     <li>Public Domain Software= Kamuya Açık Yazılım</li>
     <hr>
     <li>Publisher= Yayıncı, Reklam Veren</li>
@@ -584,16 +724,13 @@
     <hr>
     <br>
     <br>
-    <h1> O </h1>
-    <li>Open-Source Software= Açık Kaynaklı Yazılım</li>
-    <hr>
-    <li>Output= Çıktı</li>
-    <hr>
-    <li>Optimization= Optimizasyon</li>
-    <hr>
-    <br>
-    <br>
     <h1> Q </h1>
+    <li>Quantum Computing = Kuantum Hesaplama</li>
+    <hr>
+    <li>Quantum Encryption = Kuantum Şifreleme</li>
+    <hr>
+    <li>Query = Sorgu</li>
+    <hr>
     <li>QR Code= Karekod</li>
     <hr>
     <li>Quit= Çıkmak</li>
@@ -605,9 +742,13 @@
     <hr>
     <li>Rasterize= Pikselleştirmek</li>
     <hr>
+    <li>RAM = Rastgele Erişimli Bellek</li>
+    <hr>
     <li>Raw data= İşlenmemiş Veri</li>
     <hr>
     <li>Readme= Beni Oku</li>
+    <hr>
+    <li>Recursion = Özyinelemeli Fonksiyonlar</li>
     <hr>
     <li>Redirect= Yönlendir</li>
     <hr>
@@ -633,11 +774,17 @@
     <hr>
     <li>Restore= Eski Durumuna Getir</li>
     <hr>
+    <li>RESTful API = Temel Hizmetler Mimarisine Dayalı Uygulama Programlama Arayüzü</li>
+    <hr>
+    <li>Responsive Design = Uyumlu Tasarım</li>
+    <hr>
     <li>Retry= Tekrar Dene</li>
     <hr>
     <li>Runtime= Çalışma Zamanı</li>
     <hr>
     <li>Run= Çalıştırmak</li>
+    <hr>
+    <li>Root = Kök</li>
     <hr>
     <li>Revolve= Dönmek</li>
     <hr>
@@ -648,6 +795,8 @@
     <hr>
     <li>Save As= Farklı Kaydet</li>
     <hr>
+    <li>SaaS - Software as a Service = Yazılım olarak Hizmet</li>
+    <hr>
     <li>Scale= Ölçekle</li>
     <hr>
     <li>Scalability= Ölçeklenebilirlik</li>
@@ -655,6 +804,8 @@
     <li>Scroll Bar= Kaydırma Çubuğu</li>
     <hr>
     <li>Scroll Box= Kaydırma Kutusu</li>
+    <hr>
+    <li>SDK = Yazılım Geliştirme Kiti</li>
     <hr>
     <li>SEO(Search Engine Optimization)= Arama Motoru Optimizasyonu</li>
     <hr>
@@ -667,6 +818,8 @@
     <li>Select= Seç</li>
     <hr>
     <li>Select All= Tümünü seç</li>
+    <hr>
+    <li>Semantic Web = Anlamsal Web</li>
     <hr>
     <li>Set= Ayarla</li>
     <hr>
@@ -690,17 +843,23 @@
     <hr>
     <li>Software= Yazılım</li>
     <hr>
+    <li>Software Architecture = Yazılım Mimarisi</li>
+    <hr>
+    <li>Software Development Life Cycle (SDLC) = Yazılım Geliştirme Yaşam Döngüsü</li>
+    <hr>
     <li>Software Piracy= Yazılım Korsanlığı</li>
     <hr>
     <li>Software Suite= Program Paketi</li>
     <hr>
     <li>Software Product= Yazılım Ürünü</li>
     <hr>
-    <li>Software Test= Yazılım Testi</li>
+    <li>Software Testing= Yazılım Testi</li>
     <hr>
     <li>Sort= Sırala</li>
     <hr>
     <li>Sorter= Sıralayıcı</li>
+    <hr>
+    <li>Sorting = Sıralama</li>
     <hr>
     <li>Source Codes= Kaynak Kodları</li>
     <hr>
@@ -719,6 +878,8 @@
     <li>Status= Durum</li>
     <hr>
     <li>Status Bar= Durum Çubuğu</li>
+    <hr>
+    <li>Stack = Yığın</li>
     <hr>
     <li>Sticky Notes= Yapışkan Notlar</li>
     <hr>
@@ -741,6 +902,10 @@
     <li>Seldom= Seyrek</li>
     <hr>
     <li>Stage= Sahne</li>
+    <hr>
+    <li>SQL = Yapılandırılmış Sorgu Dili</li>
+    <hr>
+    <li>SQL Injection = SQL Enjeksiyonu</li>
     <hr>
     <br>
     <br>
@@ -796,17 +961,27 @@
     <hr>
     <li>Unzip= Sıkıştırılmış Dosyayı Dışarı Çıkarmak</li>
     <hr>
+    <li>Unicode = Evrensel Kod Karakter Kümesi</li>
+    <hr>
+    <li>UNIX =  İşletim sistemi</li>
+    <hr>
     <li>Upgrade= Sürüm Yükselt</li>
     <hr>
     <li>Upload= Yüklemek</li>
     <hr>
     <li>User= Kullanıcı</li>
     <hr>
+    <li>User Acceptance Testing (UAT) = Kullanıcı Kabul Testi</li>
+    <hr>
     <li>Usability= Kullanılabilirlik</li>
     <hr>
     <li>Url= Uzantı</li>
     <hr>
     <li>Utility= Yardımcı Program</li>
+    <hr>
+    <li>User Interface (UI) = Kullanıcı Arayüzü</li>
+    <hr>
+    <li>User Experience (UX) = Kullanıcı Deneyimi</li>
     <hr>
     <br>
     <h1> V </h1>
@@ -815,6 +990,10 @@
     <li>Validity Check= Geçerlilik Kontrolü</li>
     <hr>
     <li>Validation= Doğrulama</li>
+    <hr>
+    <li>Variable = Değişken</li>
+    <hr>
+    <li>Variable Scope = Değişken kapsamı</li>
     <hr>
     <li>Verbose= Ayrıntılı</li>
     <hr>
@@ -830,7 +1009,11 @@
     <hr>
     <li>Virtual PC= Sanal Bilgisayar</li>
     <hr>
+    <li>Virtual Reality (VR) = Sanal Gerçeklik</li>
+    <hr>
     <li>Virtual Machine= Sanal Makine</li>
+    <hr>
+    <li>Virtualization = Sanallaştırma</li>
     <hr>
     <li>Virus= Virüs</li>
     <hr>
@@ -843,6 +1026,8 @@
     <h1> W </h1>
     <li>Warez= Telif Hakkı Olan Bir Programın İllegal Biçimde Paylaşılması</li>
     <hr>
+    <li>Web Hosting = Web barındırma</li>
+    <hr>
     <li>Widget= Bilgisayar Ya Da Cep Telefonlarının Ekranlarında Bulunan Küçük Araçlar</li>
     <hr>
     <li>Wildcard= Joker</li>
@@ -850,6 +1035,8 @@
     <li>Wizard= Sihirbaz</li>
     <hr>
     <li>Wide= Geniş</li>
+    <hr>
+    <li>Wi-Fi = Kablosuz İnternet</li>
     <hr>
     <li>Word Count= Sözcük Sayımı</li>
     <hr>
@@ -1072,6 +1259,9 @@
     <li>Code is poetry = Kod şiirdir.</li>
     <hr>
     <br>
+    <li>YAGNI - You Aren't Gonna Need It = İhtiyacın Olmayacak.</li>
+    <hr>
+    <br>
     <li>Think algorithmically = Algoritmik düşün.</li>
     <hr>
     <br>
@@ -1152,6 +1342,62 @@
     <br>
     <li>The first 90% of the code accounts for the first 90% of the development time. The remaining 10% of the code accounts for the other 90% of the development time = Kodun ilk %90'ı, geliştirme süresinin ilk %90'ını oluşturur. Kalan %10'luk kod ise geliştirme süresinin diğer %90'ını oluşturur.</li>
     <hr>
+    <br>
+    <li>Hack it till you crack it = Çatlayana kadar hackle.</li>
+    <hr>
+    <br>
+    <li>Code ninja = Kod ninjası (Uzman ve yetenekli bir kod yazılımcı)</li>
+    <hr>
+    <br>
+    <li>RTFM - Read the F**king Manual = Yeterince anlamadıysanız kılavuzu okuyun</li>
+    <hr>
+    <br>
+    <li>Heisenbug = Bir hata ayıklanırken kendiliğinden ortadan kalkan bir hata</li>
+    <hr>
+    <br>
+    <li>Abend = Anormal program sonu</li>
+    <hr>
+    <br>
+    <li>Bikeshedding = Önemsiz ayrıntılarda sonsuz tartışma(Bisiklet baraka tartışması)</li>
+    <hr>
+    <br>
+    <li>Butterfly Effect = Kelebek etkisi (Küçük bir değişikliğin büyük bir değişime sebep olması)</li>
+    <hr>
+    <br>
+    <li>Yak Shaving = Asıl yapmak istediğiniz şeyi yapmaktan uzaklaşarak gereksiz işlere odaklanmak</li>
+    <hr>
+    <br>
+    <li>Race Condition = Birden çok işlemin birbirini etkileyerek beklenmeyen sonuçlar üretmesi durumu</li>
+    <hr>
+    <br>
+    <li>Spaghetti Code = Spagetti kodu (karmaşık ve anlaşılması zor kod)</li>
+    <hr>
+    <br>
+    <li>Beating the Averages = Ortalamaları yenmek (Yüksek kalitede yazılım yaparak diğerleri arasından sıyrılmak)</li>
+    <hr>
+    <br>
+    <li>Inner Platform Effect = Yeni bir platform yerine var olan bir platformu oluşturmaya çalışmak</li>
+    <hr>
+    <br>
+    <li>Law of Demeter = Demeter Yasası (Bir nesne, doğrudan komşusu olan nesnelerle etkileşime girmelidir, başka bir nesnenin başka bir nesneyle etkileşime girmesi gerekmeyebilir)</li>
+    <hr>
+    <br>
+    <li>Fire and Forget = Ateş ve unut (bir isteği gönderdikten sonra sonucu beklemeden devam etmek)</li>
+    <hr>
+    <br>
+    <li>Butterfly Testing = Kelebek testi (Sistemin belirli bir kısmını test etmek için sürekli farklı noktalara atlamak)</li>
+    <hr>
+    <br>
+    <li>Code Review = Kod gözden geçirme (Başka bir programcının kodunu inceleme ve hataları bulma süreci)</li>
+    <hr>
+    <br>
+    <li>Monkey Patch = Çalışan kodu düzeltmek için geçici bir çözüm eklemek</li>
+    <hr>
+    <br>
+    <li>Boilerplate Code = Kalıp kod (Tekrarlayan ve otomatik olarak oluşturulan standart kod)</li>
+    <hr>
+    <br>
+    <li>Bit Rot = Bit çürümesi (Veri depolama medyasında zamanla oluşan veri kaybı)</li>
  </ul>
 
  <br>
