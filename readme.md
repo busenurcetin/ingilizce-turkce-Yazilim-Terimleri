@@ -8,117 +8,124 @@
 ![softww](https://user-images.githubusercontent.com/110244548/232296341-1dcf5525-92d4-4e99-b80c-c251bb111339.jpeg)
 
   ## Yazılım Dünyasında Sık Kullanılan İngilizce Yazılım Terimlerinin Türkçe Tercümesi
- <h3>Yazılıma yeni başlayan ya da bir süredir sektörün içinde olup hala yazılım terimlerine hakim olmadığını düşünenlere bir kaynak olması amacıyla, sözlük niteliğinde olması planlanarak oluşturulmuş bir projedir. Yeni kelimeler, deyimler ve tercümeleri eklenmeye devam edecek ve kaynak güncel tutalacaktır.</h3>
- <br>
- <br>
+ <h3>Yazılıma yeni başlayan ya da bir süredir sektörün içinde olup hala yazılım terimlerine hakim olmadığını düşünenlere bir kaynak olması amacıyla, sözlük niteliğinde olması planlanarak oluşturulmuş bir projedir. Yeni kelimeler, deyimler ve tercümeleri eklenmeye devam edecek ve kaynak güncel tutulacaktır.</h3>
 
-<ul type="square"> <h1> A </h1>
-    <li>Abort= Durdurmak,Sonlandırmak</li>
+  ### [Sözcükler](#sozcukler)
+
+
+ ### [Deyimler , Sık Kullanılan Jargonlar, Cümleler](#deyimler)
+
+  <br>
+   <br>
+
+<div id= "sozcukler"><h1> Sözcükler </h1></div>
+<ul type ="square"> <h1> A </h1>
+    <li>Abort = Durdurmak,Sonlandırmak</li>
     <hr>
-    <li>About= Hakkında</li>
+    <li>About = Hakkında</li>
     <hr>
-    <li>Abbreviate= Kısaltmak</li>
+    <li>Abbreviate = Kısaltmak</li>
     <hr>
-    <li>Access= Erişmek</li>
+    <li>Access = Erişmek</li>
     <hr>
-    <li>Accesibility= Erişilirlik</li>
+    <li>Accesibility = Erişilirlik</li>
     <hr>
-    <li>Add-On= Eklenti</li>
+    <li>Add-On = Eklenti</li>
     <hr>
-    <li>Access= Erişim</li>
+    <li>Access = Erişim</li>
     <hr>
-    <li>Adware= Reklam İçeren Bilgisayar Yazılımı</li>
+    <li>Adware = Reklam İçeren Bilgisayar Yazılımı</li>
     <hr>
-    <li>Advanced= Gelişmiş</li>
+    <li>Advanced = Gelişmiş</li>
     <hr>
-    <li>Alternative= Seçenek</li>
+    <li>Alternative = Seçenek</li>
     <hr>
-    <li>Administrators= Yöneticiler</li>
+    <li>Administrators = Yöneticiler</li>
     <hr>
     <li>Agile = Çevik Yazılım Geliştirme</li>
     <hr>
-    <li>Analytics= Analizler</li>
+    <li>Analytics = Analizler</li>
     <hr>
-    <li>Anchor= Bağlayıcı,Çapa</li>
+    <li>Anchor = Bağlayıcı,Çapa</li>
     <hr>
-    <li>Antivirus= Virüsten Koruma Yazılımı</li>
+    <li>Antivirus = Virüsten Koruma Yazılımı</li>
     <hr>
-    <li>Append= Sonuna Eklemek</li>
+    <li>Append = Sonuna Eklemek</li>
     <hr>
-    <li>Application= Uygulama</li>
+    <li>Application = Uygulama</li>
     <hr>
-    <li>API= Bir Yazılımın Başka Bir Yazılımda Tanımlanmış İşlevlerini Kullanabilmesi İçin Oluşturulmuş Bir Tanım Bütünü</li>
+    <li>API = Bir Yazılımın Başka Bir Yazılımda Tanımlanmış İşlevlerini Kullanabilmesi İçin Oluşturulmuş Bir Tanım Bütünü</li>
     <hr>
-    <li>Archive= Arşivlemek</li>
+    <li>Archive = Arşivlemek</li>
     <hr>
-    <li>Argument= Değişken</li>
+    <li>Argument = Değişken</li>
     <hr>
-    <li>Array= Dizi</li>
+    <li>Array = Dizi</li>
     <hr>
-    <li>Artificial Intelligence= Yapay Zeka</li>
+    <li>Artificial Intelligence = Yapay Zeka</li>
     <hr>
     <li>Assembler = Derleyici</li>
     <hr>
-    <li>Attribute= Nitelik, Bir Nesnenin, Öğenin Veya Dosyanın Bir Özelliğini Tanımlar.</li>
+    <li>Attribute = Nitelik, Bir Nesnenin, Öğenin Veya Dosyanın Bir Özelliğini Tanımlar.</li>
     <hr>
-    <li>Auditing= Sistemlerin, Süreçlerin Ve Verilerin Gözden Geçirilmesiyle Düzenlemelere Ve Kurum İçi Politikalara Uygunluğun Doğrulanması.</li>
+    <li>Auditing = Sistemlerin, Süreçlerin Ve Verilerin Gözden Geçirilmesiyle Düzenlemelere Ve Kurum İçi Politikalara Uygunluğun Doğrulanması.</li>
     <hr>
-    <li>Autocomplete= Otomatik Tamamlama</li>
+    <li>Autocomplete = Otomatik Tamamlama</li>
     <hr>
-    <li>Autocorrect= Otomatik Düzeltme</li>
+    <li>Autocorrect = Otomatik Düzeltme</li>
     <hr>
-    <li>Autofill= Otomatik Doldurma</li>
+    <li>Autofill = Otomatik Doldurma</li>
     <hr>
-    <li>Autoformat= Otomatik Biçimlendirme</li>
+    <li>Autoformat = Otomatik Biçimlendirme</li>
     <hr>
-    <li>Automatic Updates= Otomatik Güncellemeler</li>
+    <li>Automatic Updates = Otomatik Güncellemeler</li>
     <hr>
-    <li>Autosave= Otomatik Kaydetme</li>
+    <li>Autosave = Otomatik Kaydetme</li>
     <hr>
     <li>Augmented Reality (AR) = Artırılmış Gerçeklik</li>
     <hr>
-    <li>Algorithm= Algoritma</li>
+    <li>Algorithm = Algoritma</li>
     <hr>
     <li>Algorithm Complexity = Algoritma Karmaşıklığı</li>
     <hr>
-    <li>ASCII(American Standard Code For Information Interexchange)= 8 Bitlik Kodda bulunan Harfler, Sayılar Ve Diğer Karakterlere Farklı Yuvalar Atayan        Bir Standarttır.</li>
+    <li>ASCII(American Standard Code For Information Interexchange) = 8 Bitlik Kodda bulunan Harfler, Sayılar Ve Diğer Karakterlere Farklı Yuvalar Atayan        Bir Standarttır.</li>
     <hr>
     <br>
     <br>
     <h1> B </h1>
-    <li>Back= Geri</li>
+    <li>Back = Geri</li>
     <hr>
-    <li>Backup= Yedekleme</li>
+    <li>Backup = Yedekleme</li>
     <hr>
     <li>Backpropagation = Geri Yayılım</li>
     <hr>
-    <li>Batch Processing= Toplu İşlem</li>
+    <li>Batch Processing = Toplu İşlem</li>
     <hr>
     <li>Benchmark = Performans değerlendirmesi</li>
     <hr>
     <li>Black Hat Hacker = Siyah Şapkalı Hacker</li>
     <hr>
-    <li>Blockchain= İşlemleri Birden Fazla Ağda Güvenli, Şeffaf Ve Kalıcı Bir Şekilde Kaydeden Değişmez Bir Dijital Defter Oluşturmak.</li>
+    <li>Blockchain = İşlemleri Birden Fazla Ağda Güvenli, Şeffaf Ve Kalıcı Bir Şekilde Kaydeden Değişmez Bir Dijital Defter Oluşturmak.</li>
     <hr>
     <li>Bloatware = Aşırı şişirilmiş yazılım</li>
     <hr>
-    <li>Bundled Software= Donanımla Birlikte Gelen Yazılım</li>
+    <li>Bundled Software = Donanımla Birlikte Gelen Yazılım</li>
     <hr>
-    <li>Brand New= Yepyeni </li>
+    <li>Brand New = Yepyeni </li>
     <hr>
-    <li>Branch= Dal </li>
+    <li>Branch = Dal </li>
     <hr>
-    <li>Browser= Tarayıcı </li>
+    <li>Browser = Tarayıcı </li>
     <hr>
-    <li>Bug= Böcek/Hata</li>
+    <li>Bug = Böcek/Hata</li>
     <hr>
-    <li>Bug Bounty Program= Yazılım Hatası Bulma Ödülü Programı</li>
+    <li>Bug Bounty Program = Yazılım Hatası Bulma Ödülü Programı</li>
     <hr>
-    <li>Body= Gövde</li>
+    <li>Body = Gövde</li>
     <hr>
     <li>Booting = Başlatma</li>
     <hr>
-    <li>Boolean= Mantıksal(Değeri Sadece 1 Ya Da 0 Yani True Veya False Olabilen Değişken)</li>
+    <li>Boolean = Mantıksal(Değeri Sadece 1 Ya Da 0 Yani True Veya False Olabilen Değişken)</li>
     <hr>
     <li>Binary Search = İkili Arama</li>
     <hr>
@@ -129,127 +136,127 @@
     <br>
     <br>
     <h1> C </h1>
-    <li>Cables= Kablolar</li>
+    <li>Cables = Kablolar</li>
     <hr>
     <li>Cache = Önbellek</li>
     <hr>
     <li>Cache Memory = Önbellek Hafıza</li>
     <hr>
-    <li>CAD (Computer-Aided Design)= Bilgisayar Destekli Tasarım</li>
+    <li>CAD (Computer-Aided Design) = Bilgisayar Destekli Tasarım</li>
     <hr>
-    <li>Calculator= Hesap Makinası</li>
+    <li>Calculator = Hesap Makinası</li>
     <hr>
-    <li>Cancel= İptal</li>
+    <li>Cancel = İptal</li>
     <hr>
-    <li>Capture	= Yakalamak (Ekran Görüntüsü)</li>
+    <li>Capture	 = Yakalamak (Ekran Görüntüsü)</li>
     <hr>
-    <li>CASE(Computer Aided Systems Engineering)	= Bilgisayar Destekli Sistem Mühendisliği</li>
+    <li>CASE(Computer Aided Systems Engineering)	 = Bilgisayar Destekli Sistem Mühendisliği</li>
     <hr>
     <li>CDN = İçerik Dağıtım Ağı</li>
     <hr>
-    <li>Check Box= İşaret Kutusu</li>
+    <li>Check Box = İşaret Kutusu</li>
     <hr>
-    <li>Child= Alt Öge</li>
+    <li>Child = Alt Öge</li>
     <hr>
-    <li>Customization= Özelleştirme</li>
+    <li>Customization = Özelleştirme</li>
     <hr>
-    <li>Collaboration= İşbirliği</li>
+    <li>Collaboration = İşbirliği</li>
     <hr>
-    <li>Combine= Birleştirmek</li>
+    <li>Combine = Birleştirmek</li>
     <hr>
-    <li>Compatibility= Uyumluluk</li>
+    <li>Compatibility = Uyumluluk</li>
     <hr>
-    <li>Compile= Derlemek</li>
+    <li>Compile = Derlemek</li>
     <hr>
-    <li>Compiler= Derleyici</li>
+    <li>Compiler = Derleyici</li>
     <hr>
-    <li>Compute= Hesaplamak</li>
+    <li>Compute = Hesaplamak</li>
     <hr>
-    <li>Connect= Bağlanmak</li>
+    <li>Connect = Bağlanmak</li>
     <hr>
-    <li>Connection= Bağlantı</li>
+    <li>Connection = Bağlantı</li>
     <hr>
-    <li>Cookie= Çerez, Bir Web Sitesini Ziyaret Ettikten Sonra Web Tarayıcın Tarafından Kaydedilen Bilgi</li>
+    <li>Cookie = Çerez, Bir Web Sitesini Ziyaret Ettikten Sonra Web Tarayıcın Tarafından Kaydedilen Bilgi</li>
     <hr>
-    <li>Class= Sınıf</li>
+    <li>Class = Sınıf</li>
     <hr>
     <li>Cloud Storage = Bulut Depolama</li>
     <hr>
     <li>Codebase = Kod tabanı</li>
     <hr>
-    <li>Command bar= Komut Çubuğu</li>
+    <li>Command bar = Komut Çubuğu</li>
     <hr>
-    <li>Commercial Software= Ticari Yazılım</li>
+    <li>Commercial Software = Ticari Yazılım</li>
     <hr>
-    <li>Compare= Karşılaştırmak</li>
+    <li>Compare = Karşılaştırmak</li>
     <hr>
-    <li>Compatible= Uyumlu</li>
+    <li>Compatible = Uyumlu</li>
     <hr>
-    <li>Compress= Sıkıştırmak</li>
+    <li>Compress = Sıkıştırmak</li>
     <hr>
-    <li>Compressed File= Sıkıştırılmış Dosya</li>
+    <li>Compressed File = Sıkıştırılmış Dosya</li>
     <hr>
-    <li>Compression Utility= Sıkıştırma Yazılımı</li>
+    <li>Compression Utility = Sıkıştırma Yazılımı</li>
     <hr>
-    <li>Common Usage= Yaygın Kullanımlar</li>
+    <li>Common Usage = Yaygın Kullanımlar</li>
     <hr>
-    <li>Compliance= Güvenlik Ve Gizliliğin Sağlanması İçin Yönetim Tarafından Belirlenen Yönergelerin Ve Standartların Karşılanması.</li>
+    <li>Compliance = Güvenlik Ve Gizliliğin Sağlanması İçin Yönetim Tarafından Belirlenen Yönergelerin Ve Standartların Karşılanması.</li>
     <hr>
-    <li>CMS(Content Managment System)= İçerik Yönetim Sistemi</li>
+    <li>CMS(Content Managment System) = İçerik Yönetim Sistemi</li>
     <hr>
-    <li>Configuration= Yapılandırma</li>
+    <li>Configuration = Yapılandırma</li>
     <hr>
-    <li>Confirmation= Doğrulama</li>
+    <li>Confirmation = Doğrulama</li>
     <hr>
-    <li>Connectivity= Bağlanabilirlik</li>
+    <li>Connectivity = Bağlanabilirlik</li>
     <hr>
-    <li>Console Application= Konsol Uygulaması</li>
+    <li>Console Application = Konsol Uygulaması</li>
     <hr>
-    <li>Constant= Sabit</li>
+    <li>Constant = Sabit</li>
     <hr>
-    <li>Continue= Devam Etmek</li>
+    <li>Continue = Devam Etmek</li>
     <hr>
     <li>Continuous Deployment/Delivery = Sürekli Dağıtım</li>
     <hr>
     <li>Continuous Integration (CI) = Sürekli Entegrasyon</li>
     <hr>
-    <li>Concatenate= Birleştirmek,Bağlamak</li>
+    <li>Concatenate = Birleştirmek,Bağlamak</li>
     <hr>
-    <li>Copy= Kopyalamak</li>
+    <li>Copy = Kopyalamak</li>
     <hr>
-    <li>Corrupt= Bozuk</li>
+    <li>Corrupt = Bozuk</li>
     <hr>
-    <li>Crash= Çökmek, Arızalanmak</li>
+    <li>Crash = Çökmek, Arızalanmak</li>
     <hr>
     <li>Crash Dump = Çöküş Dökümü</li>
     <hr>
-    <li>Crawl= Arama Robotu</li>
+    <li>Crawl = Arama Robotu</li>
     <hr>
-    <li>Create= Oluşturmak</li>
+    <li>Create = Oluşturmak</li>
     <hr>
-    <li>Critical Error= Kritik Hata</li>
+    <li>Critical Error = Kritik Hata</li>
     <hr>
-    <li>Crop= Kırpmak</li>
+    <li>Crop = Kırpmak</li>
     <hr>
     <li>CRUD(Create, Read, Update, Delete) = Oluşturma, Okuma, Güncelleme ve Silme</li>
     <hr>
-    <li>Cut= Kesmek</li>
+    <li>Cut = Kesmek</li>
     <hr>
-    <li>Cyber security= Siber Güvenlik</li>
+    <li>Cyber security = Siber Güvenlik</li>
     <hr>
-    <li>Critical= Kritik/Önemli</li>
+    <li>Critical = Kritik/Önemli</li>
     <hr>
-    <li>Closed Network= Kapalı Ağlar</li>
+    <li>Closed Network = Kapalı Ağlar</li>
     <hr>
-    <li>Cloud= Bulut</li>
+    <li>Cloud = Bulut</li>
     <hr>
     <li>Cloud Computing = Bulut Bilişim</li>
     <hr>
-    <li>Client Side= Kullanıcı Taraflı Test</li>
+    <li>Client Side = Kullanıcı Taraflı Test</li>
     <hr>
     <li>CLI = Komut Satırı Arayüzü</li>
     <hr>
-    <li>CSS(Cascading Style Sheets)= Basamaklı Stil Sayfası</li>
+    <li>CSS(Cascading Style Sheets) = Basamaklı Stil Sayfası</li>
     <hr>
     <li>CPU = Merkezi İşlem Birimi</li>
     <hr>
@@ -258,39 +265,39 @@
     <br>
     <br>
     <h1> D </h1>
-    <li>Dashboard= Gösterge Tablosu</li>
+    <li>Dashboard = Gösterge Tablosu</li>
     <hr>
-    <li>Database= Veri Tabanı</li>
+    <li>Database = Veri Tabanı</li>
     <hr>
-    <li>Data Processing= Veri İşleme</li>
+    <li>Data Processing = Veri İşleme</li>
     <hr>
-    <li>Data Protection= Veri Koruması</li>
+    <li>Data Protection = Veri Koruması</li>
     <hr>
     <li>Data Privacy = Veri Gizliliği</li>
     <hr>
-    <li>Data Recovery= Veri Kurtarma</li>
+    <li>Data Recovery = Veri Kurtarma</li>
     <hr>
     <li>Data Structure = Veri yapısı</li>
     <hr>
-    <li>Data Validation= Veri Doğrulama</li>
+    <li>Data Validation = Veri Doğrulama</li>
     <hr>
     <li>Data Visualization = Veri Görselleştirme</li>
     <hr>
-    <li>Data Mining= Data/Veri Madenciliği</li>
+    <li>Data Mining = Data/Veri Madenciliği</li>
     <hr>
     <li>Dead Code = Ölü Kod</li>
     <hr>
-    <li>Debugging= Sorun Giderme Süreci</li>
+    <li>Debugging = Sorun Giderme Süreci</li>
     <hr>
-    <li>Deep Learning= Derin Öğrenme</li>
+    <li>Deep Learning = Derin Öğrenme</li>
     <hr>
-    <li>Default= Varsayılan</li>
+    <li>Default = Varsayılan</li>
     <hr>
-    <li>Delay= Gecikme</li>
+    <li>Delay = Gecikme</li>
     <hr>
-    <li>Delete= Silmek</li>
+    <li>Delete = Silmek</li>
     <hr>
-    <li>Demo= Tanıtım</li>
+    <li>Demo = Tanıtım</li>
     <hr>
     <li>DNS = Alan Adı Sistemi</li>
     <hr>
@@ -300,152 +307,152 @@
     <hr>
     <li>Dependency Injection = Bağımlılık Enjeksiyonu</li>
     <hr>
-    <li>Desk= Çalışma Masası</li>
+    <li>Desk = Çalışma Masası</li>
     <hr>
-    <li>Desktop Computer= Masaüstü Bilgisayar</li>
+    <li>Desktop Computer = Masaüstü Bilgisayar</li>
     <hr>
-    <li>Desktop Publishing= Masaüstü Yayıncılık</li>
+    <li>Desktop Publishing = Masaüstü Yayıncılık</li>
     <hr>
-    <li>Design Pattern= Tasarım Desenleri</li>
+    <li>Design Pattern = Tasarım Desenleri</li>
     <hr>
-    <li>Device Driver= Aygıt Sürücüsü</li>
+    <li>Device Driver = Aygıt Sürücüsü</li>
     <hr>
-    <li>Development= Geliştirme</li>
+    <li>Development = Geliştirme</li>
     <hr>
     <li>DevOps(Development and Operations) = Geliştirme ve İşletme</li>
     <hr>
-    <li>Disable= Etkisiz Hale Getirmek</li>
+    <li>Disable = Etkisiz Hale Getirmek</li>
     <hr>
-    <li>Discard= Programda Yaptıklarından Vazgeçmek</li>
+    <li>Discard = Programda Yaptıklarından Vazgeçmek</li>
     <hr>
-    <li>Discontinue= Durdurmak</li>
+    <li>Discontinue = Durdurmak</li>
     <hr>
-    <li>Diagnostics= Hata Belirleme, Teşhis Etme</li>
+    <li>Diagnostics = Hata Belirleme, Teşhis Etme</li>
     <hr>
     <li>Digital Signature = Dijital İmza</li>
     <hr>
-    <li>Document= Belge</li>
+    <li>Document = Belge</li>
     <hr>
-    <li>Documentation= Dökümantasyon</li>
+    <li>Documentation = Dökümantasyon</li>
     <hr>
-    <li>Domain= Alan Adı</li>
+    <li>Domain = Alan Adı</li>
     <hr>
-    <li>Due Date/Deadline= Teslim Tarihi/Bitiş Tarihi</li>
+    <li>Due Date/Deadline = Teslim Tarihi/Bitiş Tarihi</li>
     <hr>
-    <li>Drop-Down= Açılır Menü</li>
+    <li>Drop-Down = Açılır Menü</li>
     <hr>
     <br>
     <br>
     <h1> E </h1>
-    <li>Edit mode= Düzenleme Modu</li>
+    <li>Edit mode = Düzenleme Modu</li>
     <hr>
-    <li>Encapsulation= Kapsülleme</li>
+    <li>Encapsulation = Kapsülleme</li>
     <hr>
-    <li>Embed= Yazılım Programına Bir Şey Yerleştirmek</li>
+    <li>Embed = Yazılım Programına Bir Şey Yerleştirmek</li>
     <hr>
-    <li>Embedded= Tümleşik, Gömülü</li>
+    <li>Embedded = Tümleşik, Gömülü</li>
     <hr>
-    <li>Emulator= Benzetici, Emülatör</li>
+    <li>Emulator = Benzetici, Emülatör</li>
     <hr>
-    <li>Enable= Etkin Hale Getirmek</li>
+    <li>Enable = Etkin Hale Getirmek</li>
     <hr>
-    <li>Encryption= Şifreleme</li>
+    <li>Encryption = Şifreleme</li>
     <hr>
-    <li>Entry= Giriş, Kayıt</li>
+    <li>Entry = Giriş, Kayıt</li>
     <hr>
-    <li>Engineering= Mühendislik</li>
+    <li>Engineering = Mühendislik</li>
     <hr>
-    <li>Erase= Silmek</li>
+    <li>Erase = Silmek</li>
     <hr>
-    <li>Error Code= Hata Kodu</li>
+    <li>Error Code = Hata Kodu</li>
     <hr>
-    <li>Execute= Çalıştırmak</li>
+    <li>Execute = Çalıştırmak</li>
     <hr>
-    <li>Excellent= Harika</li>
+    <li>Excellent = Harika</li>
     <hr>
-    <li>Exit= Çıkış</li>
+    <li>Exit = Çıkış</li>
     <hr>
-    <li>Expand= Genişletmek</li>
+    <li>Expand = Genişletmek</li>
     <hr>
-    <li>Explode= Patlatmak</li>
+    <li>Explode = Patlatmak</li>
     <hr>
-    <li>Export= Dışarı Aktar</li>
+    <li>Export = Dışarı Aktar</li>
     <hr>
-    <li>Extract= Çıkar, Ayıkla</li>
+    <li>Extract = Çıkar, Ayıkla</li>
     <hr>
-    <li>Expert= Uzman</li>
+    <li>Expert = Uzman</li>
     <hr>
-    <li>Eyedropper= Göz Damlası</li>
+    <li>Eyedropper = Göz Damlası</li>
     <hr>
     <li>Event-driven Programming = Olaya Dayalı Programlama</li>
     <hr>
     <br>
     <br>
     <h1> F </h1>
-    <li>Factory Settings= Fabrika Ayarları</li>
+    <li>Factory Settings = Fabrika Ayarları</li>
     <hr>
-    <li>Fail= Başarısız olma</li>
+    <li>Fail = Başarısız olma</li>
     <hr>
-    <li>Failure= Hata</li>
+    <li>Failure = Hata</li>
     <hr>
-    <li>Fault= Hata</li>
+    <li>Fault = Hata</li>
     <hr>
-    <li>Fall Down= Düşmek</li>
+    <li>Fall Down = Düşmek</li>
     <hr>
-    <li>Favicon= Kısayol Simgesi, Web Sitesi Simgesi</li>
+    <li>Favicon = Kısayol Simgesi, Web Sitesi Simgesi</li>
     <hr>
-    <li>Feature= Özellik</li>
+    <li>Feature = Özellik</li>
     <hr>
-    <li>Fetch= Getirmek</li>
+    <li>Fetch = Getirmek</li>
     <hr>
-    <li>File= Dosya</li>
+    <li>File = Dosya</li>
     <hr>
-    <li>Field= Alan</li>
+    <li>Field = Alan</li>
     <hr>
-    <li>File Conversion= Dosya Dönüştürme</li>
+    <li>File Conversion = Dosya Dönüştürme</li>
     <hr>
-    <li>File Extension= Dosya Uzantısı</li>
+    <li>File Extension = Dosya Uzantısı</li>
     <hr>
-    <li>File Format= Dosya Biçimi</li>
+    <li>File Format = Dosya Biçimi</li>
     <hr>
-    <li>File Recovery= Dosya Kurtarma</li>
+    <li>File Recovery = Dosya Kurtarma</li>
     <hr>
-    <li>File Tab= Dosya Sekmesi</li>
+    <li>File Tab = Dosya Sekmesi</li>
     <hr>
-    <li>File Type= Dosya Türü</li>
+    <li>File Type = Dosya Türü</li>
     <hr>
-    <li>File Viewer= Dosya Görüntüleyici</li>
+    <li>File Viewer = Dosya Görüntüleyici</li>
     <hr>
-    <li>Find= Bul</li>
+    <li>Find = Bul</li>
     <hr>
     <li>Firewall = Güvenlik Duvarı</li>
     <hr>
-    <li>Fix= Düzelt, Onar</li>
+    <li>Fix = Düzelt, Onar</li>
     <hr>
-    <li>Floating toolbar= Kayan Araç Çubuğu</li>
+    <li>Floating toolbar = Kayan Araç Çubuğu</li>
     <hr>
-    <li>Frame= Çerçeve</li>
+    <li>Frame = Çerçeve</li>
     <hr>
-    <li>Framework= Programlama Arayüzü</li>
+    <li>Framework = Programlama Arayüzü</li>
     <hr>
-    <li>Freeware= Ücretsiz Yazılım</li>
+    <li>Freeware = Ücretsiz Yazılım</li>
     <hr>
-    <li>Front-End= Kullanıcıların Gördüğü Arayüz</li>
+    <li>Front-End = Kullanıcıların Gördüğü Arayüz</li>
     <hr>
-    <li>Back-End= Kullanıcıların Görmediği Arkayüz</li>
+    <li>Back-End = Kullanıcıların Görmediği Arkayüz</li>
     <hr>
-    <li>Full Backup= Tam Yedekleme</li>
+    <li>Full Backup = Tam Yedekleme</li>
     <hr>
-    <li>Full-Text Search= Tam Metin Araması</li>
+    <li>Full-Text Search = Tam Metin Araması</li>
     <hr>
-    <li>Folder= Klasör</li>
+    <li>Folder = Klasör</li>
     <hr>
     <br>
     <br>
     <h1> G </h1>
-    <li>Game= Oyun</li>
+    <li>Game = Oyun</li>
     <hr>
-    <li>Grammar Checker= Dilbilgisi Kontrol Edici</li>
+    <li>Grammar Checker = Dilbilgisi Kontrol Edici</li>
     <hr>
     <li>Graph Database = Grafik Veritabanı</li>
     <hr>
@@ -460,31 +467,31 @@
     <br>
     <br>
     <h1> H </h1>
-    <li>Halt= Durdurma</li>
+    <li>Halt = Durdurma</li>
     <hr>
-    <li>Hardware= Donanım</li>
+    <li>Hardware = Donanım</li>
     <hr>
-    <li>Handler= İşleyici</li>
+    <li>Handler = İşleyici</li>
     <hr>
     <li>Hardware = Donanım</li>
     <hr>
     <li>Hashing = Karma Fonksiyonu</li>
     <hr>
-    <li>Head clean= Kafa Temizleme (Yazıcı)</li>
+    <li>Head clean = Kafa Temizleme (Yazıcı)</li>
     <hr>
-    <li>Head Office= Ana Ofis</li>
+    <li>Head Office = Ana Ofis</li>
     <hr>
     <li>High Availability = Yüksek Kullanılabilirlik</li>
     <hr>
-    <li>Highlight= Vurgulama</li>
+    <li>Highlight = Vurgulama</li>
     <hr>
-    <li>Host= Ana Makine</li>
+    <li>Host = Ana Makine</li>
     <hr>
-    <li>Hosting= Barındırmak</li>
+    <li>Hosting = Barındırmak</li>
     <hr>
-    <li>Hyperlink= Bağlantı</li>
+    <li>Hyperlink = Bağlantı</li>
     <hr>
-    <li>HTML(Hypertext Markup Language)= Bağlantılı Metin İşaretleme/Web Sayfası Yazım Dili</li>
+    <li>HTML(Hypertext Markup Language) = Bağlantılı Metin İşaretleme/Web Sayfası Yazım Dili</li>
     <hr>
     <li>HTTPS = Güvenli HTTP</li>
     <hr>
@@ -493,47 +500,47 @@
     <h1> I </h1>
     <li>IDE = Entegre Geliştirme Ortamı</li>
     <hr>
-    <li>Image Editor= Resim Düzenleyici</li>
+    <li>Image Editor = Resim Düzenleyici</li>
     <hr>
-    <li>Insert= Ekle, Araya Ekle, Yerleştir</li>
+    <li>Insert = Ekle, Araya Ekle, Yerleştir</li>
     <hr>
-    <li>Install= Kurmak</li>
+    <li>Install = Kurmak</li>
     <hr>
-    <li>Installer= Kurucu (Program), Yükleyici</li>
+    <li>Installer = Kurucu (Program), Yükleyici</li>
     <hr>
-    <li>Interactive= Etkileşimli, İnteraktif</li>
+    <li>Interactive = Etkileşimli, İnteraktif</li>
     <hr>
     <li>Internet Security = İnternet Güvenliği</li>
     <hr>
-    <li>Insect= Böcek</li>
+    <li>Insect = Böcek</li>
     <hr>
-    <li>Instructors= Eğitmenler</li>
+    <li>Instructors = Eğitmenler</li>
     <hr>
-    <li>Inheritance= Kalıtım</li>
+    <li>Inheritance = Kalıtım</li>
     <hr>
-    <li>Implementation= Uygulama</li>
+    <li>Implementation = Uygulama</li>
     <hr>
     <li>Integer = Tam sayı</li>
     <hr>
-    <li>IT= Bilgi İletişim Teknolojileri</li>
+    <li>IT = Bilgi İletişim Teknolojileri</li>
     <hr>
-    <li>Interface= Arayüz</li>
+    <li>Interface = Arayüz</li>
     <hr>
-    <li>Interpreter= Yorumlayıcı</li>
+    <li>Interpreter = Yorumlayıcı</li>
     <hr>
     <li>Internet of Things (IoT) = Nesnelerin İnterneti</li>
     <hr>
-    <li>Integration= İntegrasyon</li>
+    <li>Integration = İntegrasyon</li>
     <hr>
-    <li>Input= Girdi</li>
+    <li>Input = Girdi</li>
     <hr>
-    <li>Ignore= Yoksay</li>
+    <li>Ignore = Yoksay</li>
     <hr>
-    <li>I Work As Developer= Geliştirici Olarak Çalışıyorum.</li>
+    <li>I Work As Developer = Geliştirici Olarak Çalışıyorum.</li>
     <hr>
-    <li>Interpreter= Tercüman/Yorumlayıcı</li>
+    <li>Interpreter = Tercüman/Yorumlayıcı</li>
     <hr>
-    <li>IP Address= İnternet İletişim Kuralı Adresi</li>
+    <li>IP Address = İnternet İletişim Kuralı Adresi</li>
     <hr>
     <li>IPv4 = Internet Protocol Version 4</li>
     <hr>
@@ -542,92 +549,92 @@
     <br>
     <br>
     <h1> K </h1>
-    <li>Kill= Durdur, Bağlantıyı Kes</li>
+    <li>Kill = Durdur, Bağlantıyı Kes</li>
     <hr>
     <li>Kernel Mode = Çekirdek Modu</li>
     <hr>
-    <li>Keyword= Anahtar Sözcük</li>
+    <li>Keyword = Anahtar Sözcük</li>
     <hr>
     <br>
     <br>
     <h1> L </h1>
-    <li>Launch= Çalıştır</li>
+    <li>Launch = Çalıştır</li>
     <hr>
-    <li>LAN (Local Area Network)= Yerel Alan Ağı</li>
+    <li>LAN (Local Area Network) = Yerel Alan Ağı</li>
     <hr>
     <li>Latency = Gecikme süresi</li>
     <hr>
-    <li>License= Lisans</li>
+    <li>License = Lisans</li>
     <hr>
-    <li>Locked File= Kilitli Dosya</li>
+    <li>Locked File = Kilitli Dosya</li>
     <hr>
-    <li>Localhost= Yerel Ana Bilgisayar</li>
+    <li>Localhost = Yerel Ana Bilgisayar</li>
     <hr>
-    <li>Log= Sistem Günlüğü</li>
+    <li>Log = Sistem Günlüğü</li>
     <hr>
-    <li>Logging= Şüpheli Faaliyetleri Tespit Etmek İçin Kullanıcı Faaliyetlerini İzlemek.</li>
+    <li>Logging = Şüpheli Faaliyetleri Tespit Etmek İçin Kullanıcı Faaliyetlerini İzlemek.</li>
     <hr>
-    <li>Loop= Döngü</li>
+    <li>Loop = Döngü</li>
     <hr>
     <br>
     <br>
     <h1> M </h1>
-    <li>Macro Recorder= Makro Kaydedici</li>
+    <li>Macro Recorder = Makro Kaydedici</li>
     <hr>
-    <li>Machine Language= Makine Dili</li>
+    <li>Machine Language = Makine Dili</li>
     <hr>
     <li>Machine Vision = Makine Görüşü</li>
     <hr>
-    <li>Maintenance= Bakım</li>
+    <li>Maintenance = Bakım</li>
     <hr>
-    <li>Malware= Kötü Amaçlı Yazılım</li>
+    <li>Malware = Kötü Amaçlı Yazılım</li>
     <hr>
-    <li>Manager= Yönetici</li>
+    <li>Manager = Yönetici</li>
     <hr>
-    <li>Marquee= Kayan Yazı</li>
+    <li>Marquee = Kayan Yazı</li>
     <hr>
-    <li>Mask= Maske</li>
+    <li>Mask = Maske</li>
     <hr>
-    <li>Merge= Birleştir</li>
+    <li>Merge = Birleştir</li>
     <hr>
-    <li>Meta Tag= Meta Eklentisi</li>
+    <li>Meta Tag = Meta Eklentisi</li>
     <hr>
-    <li>Move= Taşı</li>
+    <li>Move = Taşı</li>
     <hr>
-    <li>Monitoring= İzleme</li>
+    <li>Monitoring = İzleme</li>
     <hr>
-    <li>Memory Leak= Bellek Sızıntısı</li>
+    <li>Memory Leak = Bellek Sızıntısı</li>
     <hr>
     <li>Microservices = Mikro hizmetler</li>
     <hr>
-    <li>Midterm Exam= Dönem Ortası Sınavı</li>
+    <li>Midterm Exam = Dönem Ortası Sınavı</li>
     <hr>
-    <li>Middleware= Özel Yazılım</li>
+    <li>Middleware = Özel Yazılım</li>
     <hr>
-    <li>Migration= Veri Bütünlüğünü Koruyarak Bir Platformdan, İşletim Sisteminden Veya Veritabanından Diğerine Geçme.</li>
+    <li>Migration = Veri Bütünlüğünü Koruyarak Bir Platformdan, İşletim Sisteminden Veya Veritabanından Diğerine Geçme.</li>
     <hr>
     <li>Multithreading = Çoklu iş parçacığı</li>
     <hr>
     <li>Mobile Development = Mobil Uygulama Geliştirme</li>
     <hr>
-    <li>Monitor= Monitör/Ekran</li>
+    <li>Monitor = Monitör/Ekran</li>
     <hr>
     <br>
     <br>
     <h1> N </h1>
     <li>Natural Language Processing (NLP) = Doğal Dil İşleme</li>
     <hr>
-    <li>Network= Ağ</li>
+    <li>Network = Ağ</li>
     <hr>
-    <li>Network Security= Ağ Güvenliği</li>
+    <li>Network Security = Ağ Güvenliği</li>
     <hr>
     <li>Network Protocol = Ağ Protokolü</li>
     <hr>
     <li>Neural Network = Yapay Sinir Ağı</li>
     <hr>
-    <li>Navigation= Bir Web Sitesinde Bölümler Arası Geçiş İçin Oluşturulan Menü</li>
+    <li>Navigation = Bir Web Sitesinde Bölümler Arası Geçiş İçin Oluşturulan Menü</li>
     <hr>
-    <li>Null= Boş Karakter(Değeri Olmayan)</li>
+    <li>Null = Boş Karakter(Değeri Olmayan)</li>
     <hr>
     <li>NoSQL = İlişkisel Olmayan Veritabanı</li>
     <hr>
@@ -635,92 +642,92 @@
     <h1> O </h1>
     <li>OAuth = Kimlik Doğrulama ve Yetkilendirme</li>
     <hr>
-    <li>Object= Nesne</li>
+    <li>Object = Nesne</li>
     <hr>
-    <li>Object-Oriented Programming= Nesne Yönelimli Programlama</li>
+    <li>Object-Oriented Programming = Nesne Yönelimli Programlama</li>
     <hr>
     <li>Object Detection = Nesne Algılama</li>
     <hr>
-    <li>Offset= Kaydır</li>
+    <li>Offset = Kaydır</li>
     <hr>
-    <li>Open File= Dosya Aç</li>
+    <li>Open File = Dosya Aç</li>
     <hr>
-    <li>Open Source= Açık Kaynak</li>
+    <li>Open Source = Açık Kaynak</li>
     <hr>
     <li>Operator Overloading = Operatör Yüklemesi</li>
     <hr>
-    <li>Optimization= İyileştirme, En Uygun Duruma Getirme</li>
+    <li>Optimization = İyileştirme, En Uygun Duruma Getirme</li>
     <hr>
-    <li>Optimize= İyileştirmek</li>
+    <li>Optimize = İyileştirmek</li>
     <hr>
-    <li>Option= Seçenek</li>
+    <li>Option = Seçenek</li>
     <hr>
-    <li>Open-Source Software= Açık Kaynaklı Yazılım</li>
+    <li>Open-Source Software = Açık Kaynaklı Yazılım</li>
     <hr>
     <li>Operating System = İşletim Sistemi</li>
     <hr>
-    <li>Output= Çıktı</li>
+    <li>Output = Çıktı</li>
     <hr>
-    <li>Optimization= Optimizasyon</li>
+    <li>Optimization = Optimizasyon</li>
     <hr>
     <br>
     <br>
     <h1> P </h1>
-    <li>Paint Brush= Boya Fırçası, Fırça</li>
+    <li>Paint Brush = Boya Fırçası, Fırça</li>
     <hr>
-    <li>Parameter= Parametre, Değişken</li>
+    <li>Parameter = Parametre, Değişken</li>
     <hr>
-    <li>Parent= Üst Öge</li>
+    <li>Parent = Üst Öge</li>
     <hr>
-    <li>Parental Controls= Ebeveyn Kontrol Sistemi</li>
+    <li>Parental Controls = Ebeveyn Kontrol Sistemi</li>
     <hr>
-    <li>Paste= Yapıştır</li>
+    <li>Paste = Yapıştır</li>
     <hr>
-    <li>Paste special= Özel Yapıştır</li>
+    <li>Paste special = Özel Yapıştır</li>
     <hr>
-    <li>Patch= Yama</li>
+    <li>Patch = Yama</li>
     <hr>
-    <li>Path= Yol</li>
+    <li>Path = Yol</li>
     <hr>
-    <li>Performance= Performans</li>
+    <li>Performance = Performans</li>
     <hr>
-    <li>PDF (Portable Document Format)= Taşınabilir Belge Biçimi</li>
+    <li>PDF (Portable Document Format) = Taşınabilir Belge Biçimi</li>
     <hr>
-    <li>Piracy= Korsan Yayıncılık</li>
+    <li>Piracy = Korsan Yayıncılık</li>
     <hr>
-    <li>Port= Giriş, Soket Veya Bağlantı Noktası</li>
+    <li>Port = Giriş, Soket Veya Bağlantı Noktası</li>
     <hr>
-    <li>Popup Blocker= Açılır Pencere Engelleyici</li>
+    <li>Popup Blocker = Açılır Pencere Engelleyici</li>
     <hr>
     <li>Polymorphism = Çok Biçimlilik</li>
     <hr>
-    <li>Plaintext= Düz Metin</li>
+    <li>Plaintext = Düz Metin</li>
     <hr>
     <li>Platform as a Service (PaaS) = Platform Olarak Hizmet</li>
     <hr>
-    <li>Preferences= Tercihler</li>
+    <li>Preferences = Tercihler</li>
     <hr>
-    <li>Presentation Program= Sunum Programı</li>
+    <li>Presentation Program = Sunum Programı</li>
     <hr>
-    <li>Print Area= Yazdırma Alanı</li>
+    <li>Print Area = Yazdırma Alanı</li>
     <hr>
-    <li>Problem Reports And Solutions= Sorun Raporları Ve Çözümler</li>
+    <li>Problem Reports And Solutions = Sorun Raporları Ve Çözümler</li>
     <hr>
-    <li>Production= Üretim</li>
+    <li>Production = Üretim</li>
     <hr>
-    <li>Promotion= Terfi</li>
+    <li>Promotion = Terfi</li>
     <hr>
     <li>Protocol = Protokol</li>
     <hr>
-    <li>Public Domain Software= Kamuya Açık Yazılım</li>
+    <li>Public Domain Software = Kamuya Açık Yazılım</li>
     <hr>
-    <li>Publisher= Yayıncı, Reklam Veren</li>
+    <li>Publisher = Yayıncı, Reklam Veren</li>
     <hr>
-    <li>Purge= Temizle</li>
+    <li>Purge = Temizle</li>
     <hr>
-    <li>Push Button= Basılabilir Düğme, Düğmeye Basmak</li>
+    <li>Push Button = Basılabilir Düğme, Düğmeye Basmak</li>
     <hr>
-    <li>Put= Koymak</li>
+    <li>Put = Koymak</li>
     <hr>
     <br>
     <br>
@@ -731,177 +738,177 @@
     <hr>
     <li>Query = Sorgu</li>
     <hr>
-    <li>QR Code= Karekod</li>
+    <li>QR Code = Karekod</li>
     <hr>
-    <li>Quit= Çıkmak</li>
+    <li>Quit = Çıkmak</li>
     <hr>
     <br>
     <br>
     <h1> R </h1>
-    <li>Radio button= Seçenek Düğmesi</li>
+    <li>Radio button = Seçenek Düğmesi</li>
     <hr>
-    <li>Rasterize= Pikselleştirmek</li>
+    <li>Rasterize = Pikselleştirmek</li>
     <hr>
     <li>RAM = Rastgele Erişimli Bellek</li>
     <hr>
-    <li>Raw data= İşlenmemiş Veri</li>
+    <li>Raw data = İşlenmemiş Veri</li>
     <hr>
-    <li>Readme= Beni Oku</li>
+    <li>Readme = Beni Oku</li>
     <hr>
     <li>Recursion = Özyinelemeli Fonksiyonlar</li>
     <hr>
-    <li>Redirect= Yönlendir</li>
+    <li>Redirect = Yönlendir</li>
     <hr>
-    <li>Registry Scanner= Kayıt Defteri Tarayıcı</li>
+    <li>Registry Scanner = Kayıt Defteri Tarayıcı</li>
     <hr>
-    <li>Reload= Yeniden Yükle</li>
+    <li>Reload = Yeniden Yükle</li>
     <hr>
-    <li>Release= Yayınlanma/Çıkış</li>
+    <li>Release = Yayınlanma/Çıkış</li>
     <hr>
-    <li>Release Notes= Sürüm Notları</li>
+    <li>Release Notes = Sürüm Notları</li>
     <hr>
-    <li>Remote Control Software= Uzaktan Yönetim Programı</li>
+    <li>Remote Control Software = Uzaktan Yönetim Programı</li>
     <hr>
-    <li>Remotehelp= Uzaktan Yardım</li>
+    <li>Remotehelp = Uzaktan Yardım</li>
     <hr>
-    <li>Rename= Yeniden Adlandır</li>
+    <li>Rename = Yeniden Adlandır</li>
     <hr>
-    <li>Replace= Değiştir</li>
+    <li>Replace = Değiştir</li>
     <hr>
-    <li>Report Generator= Rapor Oluşturucu</li>
+    <li>Report Generator = Rapor Oluşturucu</li>
     <hr>
-    <li>Resource= Kaynak</li>
+    <li>Resource = Kaynak</li>
     <hr>
-    <li>Restore= Eski Durumuna Getir</li>
+    <li>Restore = Eski Durumuna Getir</li>
     <hr>
     <li>RESTful API = Temel Hizmetler Mimarisine Dayalı Uygulama Programlama Arayüzü</li>
     <hr>
     <li>Responsive Design = Uyumlu Tasarım</li>
     <hr>
-    <li>Retry= Tekrar Dene</li>
+    <li>Retry = Tekrar Dene</li>
     <hr>
-    <li>Runtime= Çalışma Zamanı</li>
+    <li>Runtime = Çalışma Zamanı</li>
     <hr>
-    <li>Run= Çalıştırmak</li>
+    <li>Run = Çalıştırmak</li>
     <hr>
     <li>Root = Kök</li>
     <hr>
-    <li>Revolve= Dönmek</li>
+    <li>Revolve = Dönmek</li>
     <hr>
     <br>
     <br>
     <h1> S </h1>
-    <li>Save= Kaydet</li>
+    <li>Save = Kaydet</li>
     <hr>
-    <li>Save As= Farklı Kaydet</li>
+    <li>Save As = Farklı Kaydet</li>
     <hr>
     <li>SaaS - Software as a Service = Yazılım olarak Hizmet</li>
     <hr>
-    <li>Scale= Ölçekle</li>
+    <li>Scale = Ölçekle</li>
     <hr>
-    <li>Scalability= Ölçeklenebilirlik</li>
+    <li>Scalability = Ölçeklenebilirlik</li>
     <hr>
-    <li>Scroll Bar= Kaydırma Çubuğu</li>
+    <li>Scroll Bar = Kaydırma Çubuğu</li>
     <hr>
-    <li>Scroll Box= Kaydırma Kutusu</li>
+    <li>Scroll Box = Kaydırma Kutusu</li>
     <hr>
     <li>SDK = Yazılım Geliştirme Kiti</li>
     <hr>
-    <li>SEO(Search Engine Optimization)= Arama Motoru Optimizasyonu</li>
+    <li>SEO(Search Engine Optimization) = Arama Motoru Optimizasyonu</li>
     <hr>
-    <li>Section Break= Bölüm Sonu</li>
+    <li>Section Break = Bölüm Sonu</li>
     <hr>
-    <li>Security= Güvenlik</li>
+    <li>Security = Güvenlik</li>
     <hr>
-    <li>Sidebar= Yan Sütun</li>
+    <li>Sidebar = Yan Sütun</li>
     <hr>
-    <li>Select= Seç</li>
+    <li>Select = Seç</li>
     <hr>
-    <li>Select All= Tümünü seç</li>
+    <li>Select All = Tümünü seç</li>
     <hr>
     <li>Semantic Web = Anlamsal Web</li>
     <hr>
-    <li>Set= Ayarla</li>
+    <li>Set = Ayarla</li>
     <hr>
-    <li>Settings= Ayarlar</li>
+    <li>Settings = Ayarlar</li>
     <hr>
-    <li>Server= Sunucu</li>
+    <li>Server = Sunucu</li>
     <hr>
-    <li>Server Side= Sunucu Taraflı Test</li>
+    <li>Server Side = Sunucu Taraflı Test</li>
     <hr>
-    <li>Setup= Kurulum</li>
+    <li>Setup = Kurulum</li>
     <hr>
-    <li>Skip= Atla</li>
+    <li>Skip = Atla</li>
     <hr>
-    <li>Scanner= Tarayıcı</li>
+    <li>Scanner = Tarayıcı</li>
     <hr>
-    <li>Snapshot= Anlık Görüntü Al</li>
+    <li>Snapshot = Anlık Görüntü Al</li>
     <hr>
-    <li>Snipping Tool= Ekran Alıntısı Aracı</li>
+    <li>Snipping Tool = Ekran Alıntısı Aracı</li>
     <hr>
-    <li>Soft Copy= Elektronik Kopya</li>
+    <li>Soft Copy = Elektronik Kopya</li>
     <hr>
-    <li>Software= Yazılım</li>
+    <li>Software = Yazılım</li>
     <hr>
     <li>Software Architecture = Yazılım Mimarisi</li>
     <hr>
     <li>Software Development Life Cycle (SDLC) = Yazılım Geliştirme Yaşam Döngüsü</li>
     <hr>
-    <li>Software Piracy= Yazılım Korsanlığı</li>
+    <li>Software Piracy = Yazılım Korsanlığı</li>
     <hr>
-    <li>Software Suite= Program Paketi</li>
+    <li>Software Suite = Program Paketi</li>
     <hr>
-    <li>Software Product= Yazılım Ürünü</li>
+    <li>Software Product = Yazılım Ürünü</li>
     <hr>
-    <li>Software Testing= Yazılım Testi</li>
+    <li>Software Testing = Yazılım Testi</li>
     <hr>
-    <li>Sort= Sırala</li>
+    <li>Sort = Sırala</li>
     <hr>
-    <li>Sorter= Sıralayıcı</li>
+    <li>Sorter = Sıralayıcı</li>
     <hr>
     <li>Sorting = Sıralama</li>
     <hr>
-    <li>Source Codes= Kaynak Kodları</li>
+    <li>Source Codes = Kaynak Kodları</li>
     <hr>
-    <li>Support= Destek</li>
+    <li>Support = Destek</li>
     <hr>
-    <li>Spin Box= Döndürme Kutusu</li>
+    <li>Spin Box = Döndürme Kutusu</li>
     <hr>
-    <li>Split= Böl</li>
+    <li>Split = Böl</li>
     <hr>
-    <li>Split screen= Bölünmüş Ekran</li>
+    <li>Split screen = Bölünmüş Ekran</li>
     <hr>
-    <li>Spreadsheet= Elektronik Tablo Programı</li>
+    <li>Spreadsheet = Elektronik Tablo Programı</li>
     <hr>
-    <li>Spyware= Casus yazılım</li>
+    <li>Spyware = Casus yazılım</li>
     <hr>
-    <li>Status= Durum</li>
+    <li>Status = Durum</li>
     <hr>
-    <li>Status Bar= Durum Çubuğu</li>
+    <li>Status Bar = Durum Çubuğu</li>
     <hr>
     <li>Stack = Yığın</li>
     <hr>
-    <li>Sticky Notes= Yapışkan Notlar</li>
+    <li>Sticky Notes = Yapışkan Notlar</li>
     <hr>
-    <li>Stop= Dur</li>
+    <li>Stop = Dur</li>
     <hr>
-    <li>Syntax= Programlama Dilinin Yapısını İfade Eder.</li>
+    <li>Syntax = Programlama Dilinin Yapısını İfade Eder.</li>
     <hr>
-    <li>System Component= Sistem Bileşeni</li>
+    <li>System Component = Sistem Bileşeni</li>
     <hr>
-    <li>System Error= Sistem Hatası</li>
+    <li>System Error = Sistem Hatası</li>
     <hr>
-    <li>System Failure= Sistem Hatası</li>
+    <li>System Failure = Sistem Hatası</li>
     <hr>
-    <li>System Requirements= Sistem Gereksinimleri</li>
+    <li>System Requirements = Sistem Gereksinimleri</li>
     <hr>
-    <li>System Restore= Sistem Geri Yükleme</li>
+    <li>System Restore = Sistem Geri Yükleme</li>
     <hr>
-    <li>System Software= Sistem Yazılımı</li>
+    <li>System Software = Sistem Yazılımı</li>
     <hr>
-    <li>Seldom= Seyrek</li>
+    <li>Seldom = Seyrek</li>
     <hr>
-    <li>Stage= Sahne</li>
+    <li>Stage = Sahne</li>
     <hr>
     <li>SQL = Yapılandırılmış Sorgu Dili</li>
     <hr>
@@ -910,74 +917,74 @@
     <br>
     <br>
     <h1> T </h1>
-    <li>Tab= Sekme</li>
+    <li>Tab = Sekme</li>
     <hr>
-    <li>Target= Hedef</li>
+    <li>Target = Hedef</li>
     <hr>
-    <li>Task= Görev</li>
+    <li>Task = Görev</li>
     <hr>
-    <li>Task Scheduler= Görev Zamanlayıcı</li>
+    <li>Task Scheduler = Görev Zamanlayıcı</li>
     <hr>
-    <li>Take up= Başlamak</li>
+    <li>Take up = Başlamak</li>
     <hr>
-    <li>Testing= Test Etme Aşaması</li>
+    <li>Testing = Test Etme Aşaması</li>
     <hr>
-    <li>Test-Bed= Test Yazılım Paketi</li>
+    <li>Test-Bed = Test Yazılım Paketi</li>
     <hr>
-    <li>Terminate= Sonlandır</li>
+    <li>Terminate = Sonlandır</li>
     <hr>
-    <li>Technician= Teknisyen</li>
+    <li>Technician = Teknisyen</li>
     <hr>
-    <li>Template= Şablon</li>
+    <li>Template = Şablon</li>
     <hr>
-    <li>Text-only= Salt Metin</li>
+    <li>Text-only = Salt Metin</li>
     <hr>
-    <li>Timer= Zamanlayıcı</li>
+    <li>Timer = Zamanlayıcı</li>
     <hr>
-    <li>Toggle= Açma Kapama Butonu</li>
+    <li>Toggle = Açma Kapama Butonu</li>
     <hr>
-    <li>Toolbar= Araç Çubuğu</li>
+    <li>Toolbar = Araç Çubuğu</li>
     <hr>
-    <li>Transition= Geçiş</li>
+    <li>Transition = Geçiş</li>
     <hr>
-    <li>Translator= Çevirici</li>
+    <li>Translator = Çevirici</li>
     <hr>
-    <li>Troubleshooting= Donanım, Yazılım, Ağlar Ve Sistem Performansı İle İlgili Sorunların Tanımlanması Ve Çözülmesi.</li>
+    <li>Troubleshooting = Donanım, Yazılım, Ağlar Ve Sistem Performansı İle İlgili Sorunların Tanımlanması Ve Çözülmesi.</li>
     <hr>
-    <li>TTS (Text To Speech)= Metin Okuma</li>
+    <li>TTS (Text To Speech) = Metin Okuma</li>
     <hr>
     <li>Thumbnails = Küçük Resimler</li>
     <hr>
-    <li>Tweak= İnce Ayar</li>
+    <li>Tweak = İnce Ayar</li>
     <hr>
     <br>
     <br>
     <h1> U </h1>
-    <li>Unarchive= Arşivden Çıkar</li>
+    <li>Unarchive = Arşivden Çıkar</li>
     <hr>
-    <li>Undelete= Silme İşlemini Geri Al</li>
+    <li>Undelete = Silme İşlemini Geri Al</li>
     <hr>
-    <li>Undo= Geri Al</li>
+    <li>Undo = Geri Al</li>
     <hr>
-    <li>Unzip= Sıkıştırılmış Dosyayı Dışarı Çıkarmak</li>
+    <li>Unzip = Sıkıştırılmış Dosyayı Dışarı Çıkarmak</li>
     <hr>
     <li>Unicode = Evrensel Kod Karakter Kümesi</li>
     <hr>
     <li>UNIX =  İşletim sistemi</li>
     <hr>
-    <li>Upgrade= Sürüm Yükselt</li>
+    <li>Upgrade = Sürüm Yükselt</li>
     <hr>
-    <li>Upload= Yüklemek</li>
+    <li>Upload = Yüklemek</li>
     <hr>
-    <li>User= Kullanıcı</li>
+    <li>User = Kullanıcı</li>
     <hr>
     <li>User Acceptance Testing (UAT) = Kullanıcı Kabul Testi</li>
     <hr>
-    <li>Usability= Kullanılabilirlik</li>
+    <li>Usability = Kullanılabilirlik</li>
     <hr>
-    <li>Url= Uzantı</li>
+    <li>Url = Uzantı</li>
     <hr>
-    <li>Utility= Yardımcı Program</li>
+    <li>Utility = Yardımcı Program</li>
     <hr>
     <li>User Interface (UI) = Kullanıcı Arayüzü</li>
     <hr>
@@ -985,89 +992,89 @@
     <hr>
     <br>
     <h1> V </h1>
-    <li>Valid= Geçerli</li>
+    <li>Valid = Geçerli</li>
     <hr>
-    <li>Validity Check= Geçerlilik Kontrolü</li>
+    <li>Validity Check = Geçerlilik Kontrolü</li>
     <hr>
-    <li>Validation= Doğrulama</li>
+    <li>Validation = Doğrulama</li>
     <hr>
     <li>Variable = Değişken</li>
     <hr>
     <li>Variable Scope = Değişken kapsamı</li>
     <hr>
-    <li>Verbose= Ayrıntılı</li>
+    <li>Verbose = Ayrıntılı</li>
     <hr>
-    <li>Version= Sürüm</li>
+    <li>Version = Sürüm</li>
     <hr>
-    <li>Version Control= Sürüm Kontrolü</li>
+    <li>Version Control = Sürüm Kontrolü</li>
     <hr>
-    <li>Video Editing Software= Video Düzenleme Yazılımı</li>
+    <li>Video Editing Software = Video Düzenleme Yazılımı</li>
     <hr>
-    <li>View= Görüntüle, Görünüm</li>
+    <li>View = Görüntüle, Görünüm</li>
     <hr>
-    <li>Virtual Drive= Varsayılan Sürücü, Sanal Sürücü</li>
+    <li>Virtual Drive = Varsayılan Sürücü, Sanal Sürücü</li>
     <hr>
-    <li>Virtual PC= Sanal Bilgisayar</li>
+    <li>Virtual PC = Sanal Bilgisayar</li>
     <hr>
     <li>Virtual Reality (VR) = Sanal Gerçeklik</li>
     <hr>
-    <li>Virtual Machine= Sanal Makine</li>
+    <li>Virtual Machine = Sanal Makine</li>
     <hr>
     <li>Virtualization = Sanallaştırma</li>
     <hr>
-    <li>Virus= Virüs</li>
+    <li>Virus = Virüs</li>
     <hr>
-    <li>Visible Page= Görünür Sayfa</li>
+    <li>Visible Page = Görünür Sayfa</li>
     <hr>
-    <li>VPN(Virtual Private Network)= Sanal Özel Ağ</li>
+    <li>VPN(Virtual Private Network) = Sanal Özel Ağ</li>
     <hr>
     <br>
     <br>
     <h1> W </h1>
-    <li>Warez= Telif Hakkı Olan Bir Programın İllegal Biçimde Paylaşılması</li>
+    <li>Warez = Telif Hakkı Olan Bir Programın İllegal Biçimde Paylaşılması</li>
     <hr>
     <li>Web Hosting = Web barındırma</li>
     <hr>
-    <li>Widget= Bilgisayar Ya Da Cep Telefonlarının Ekranlarında Bulunan Küçük Araçlar</li>
+    <li>Widget = Bilgisayar Ya Da Cep Telefonlarının Ekranlarında Bulunan Küçük Araçlar</li>
     <hr>
-    <li>Wildcard= Joker</li>
+    <li>Wildcard = Joker</li>
     <hr>
-    <li>Wizard= Sihirbaz</li>
+    <li>Wizard = Sihirbaz</li>
     <hr>
-    <li>Wide= Geniş</li>
+    <li>Wide = Geniş</li>
     <hr>
     <li>Wi-Fi = Kablosuz İnternet</li>
     <hr>
-    <li>Word Count= Sözcük Sayımı</li>
+    <li>Word Count = Sözcük Sayımı</li>
     <hr>
-    <li>Word Processor= Kelime İşlemci</li>
+    <li>Word Processor = Kelime İşlemci</li>
     <hr>
-    <li>Wrap Text= Metni Kaydır</li>
+    <li>Wrap Text = Metni Kaydır</li>
     <hr>
-    <li>WYSIWYG (What You See Is What You Get)= Ne Görüyorsan Sonuç Olarak Onu Alırsın.</li>
+    <li>WYSIWYG (What You See Is What You Get) = Ne Görüyorsan Sonuç Olarak Onu Alırsın.</li>
     <hr>
-    <li>WAGMI(We All Gonna Make It)= Hepimiz Başaracağız.</li>
+    <li>WAGMI(We All Gonna Make It) = Hepimiz Başaracağız.</li>
     <hr>
     <br>
     <h1> Z </h1>
-    <li>ZIP= Sıkıştırılmış Dosyalar</li>
+    <li>ZIP = Sıkıştırılmış Dosyalar</li>
 </ul>
 
 <br>
 <br>
 
-<h1>İngilizce-Türkçe Yazılım Deyimleri </h1>
+<div id="deyimler"><h1>İngilizce-Türkçe Yazılım Deyimleri </h1></div>
 
  <h3>Bu kısım yazılım dünyasında sık kullanılan deyimler, cümleler, tabirlerden oluşmaktadır.</h3>
 
  <ul>
-    <li>WAGMI(We All Gonna Make It)= Hepimiz Başaracağız.</li>
+    <li>WAGMI(We All Gonna Make It) = Hepimiz Başaracağız.</li>
     <hr>
     <br>
     <li>Programming is the ultimate form of problem-solving. = Programlama, en üst düzeyde sorun çözme şeklidir.</li>
     <hr>
     <br>
-    <li>Code is like magic; it makes things happen with just a few keystrokes.= Kod, sihir gibidir; sadece birkaç tuş vuruşuyla işler oluşturur.</li>
+    <li>Code is like magic; it makes things happen with just a few keystrokes. = Kod, sihir gibidir; sadece birkaç tuş vuruşuyla işler oluşturur.</li>
     <hr>
     <br>
     <li>Great code is not just functional; it's also elegant and beautiful. = Harika kod, sadece işlevsel değil, aynı zamanda zarif ve güzeldir.</li>
@@ -1079,7 +1086,7 @@
     <li>The best programmers are not only skilled in code but also in empathy. = En iyi programcılar, sadece kodda değil, empati konusunda da uzmanlaşmışlardır.</li>
     <hr>
     <br>
-    <li>Coding is the art of making the machine understand your thoughts.= Kodlama, makinenin düşüncelerinizi anlamasının sanatıdır.</li>
+    <li>Coding is the art of making the machine understand your thoughts. = Kodlama, makinenin düşüncelerinizi anlamasının sanatıdır.</li>
     <hr>
     <br>
     <li>Programmers don't find bugs; they find hidden features. = Programcılar hata bulmaz; gizli özellikler bulur.</li>
@@ -1160,7 +1167,7 @@
     <li>Software development is an endless journey of learning and improvement. = Yazılım geliştirme, sürekli öğrenme ve gelişme yolculuğudur.</li>
     <hr>
     <br>
-    <li>Code without fear, but with respect for others who will read it.= Kodlama korkusuzca yapın, ancak onu okuyacak olanlara saygı gösterin.</li>
+    <li>Code without fear, but with respect for others who will read it. = Kodlama korkusuzca yapın, ancak onu okuyacak olanlara saygı gösterin.</li>
     <hr>
     <br>
     <li>Efficiency through simplicity. = Basitlikle etkinlik.</li>
