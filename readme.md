@@ -13,7 +13,7 @@
   ### [Sözcükler](#sozcukler)
 
 
- ### [Deyimler , Sık Kullanılan Jargonlar, Cümleler](#deyimler)
+ ### [Deyimler , Sık Kullanılan Jargonlar, İfadeler](#deyimler)
 
   <br>
    <br>
