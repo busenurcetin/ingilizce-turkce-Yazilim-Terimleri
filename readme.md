@@ -28,7 +28,7 @@
     <hr>
     <li>Access = Erişmek</li>
     <hr>
-    <li>Accesibility = Erişilirlik</li>
+    <li>Accesibility = Erişilebilirlik</li>
     <hr>
     <li>Add-On = Eklenti</li>
     <hr>
