@@ -26,13 +26,19 @@
     <hr>
     <li>Abbreviate = Kısaltmak</li>
     <hr>
+    <li>Accept = onaylamak</li>
+    <hr>
     <li>Access = Erişmek</li>
     <hr>
     <li>Accesibility = Erişilirlik</li>
     <hr>
-    <li>Add-On = Eklenti</li>
-    <hr>
     <li>Access = Erişim</li>
+    <hr>
+    <li>Action Bar = Menü Çubuğu</li>
+    <hr>
+    <li>Adapter = Bağdaştırıcı</li>
+    <hr>
+    <li>Add-On = Eklenti</li>
     <hr>
     <li>Adware = Reklam İçeren Bilgisayar Yazılımı</li>
     <hr>
@@ -43,6 +49,20 @@
     <li>Administrators = Yöneticiler</li>
     <hr>
     <li>Agile = Çevik Yazılım Geliştirme</li>
+    <hr>
+    <li>Algorithm = Algoritma</li>
+    <hr>
+    <li>Alert = Uyarı</li>
+    <hr>
+    <li>All Authority = Tam Yetki</li>
+    <hr>
+    <li>Allocation Unit = Yerleşim Birimi</li>
+    <hr>
+    <li>Allow = İzin Vermek</li></li>
+    <hr>
+    <li>All Rights Reserved = Tüm Hakları Saklıdır</li>
+    <hr>
+    <li>Algorithm Complexity = Algoritma Karmaşıklığı</li>
     <hr>
     <li>Analytics = Analizler</li>
     <hr>
@@ -66,6 +86,12 @@
     <hr>
     <li>Assembler = Derleyici</li>
     <hr>
+    <li>Attach = Bağlamak</li>
+    <hr>
+    <li>Attention = Uyarı,Dikkat</li>
+    <hr>
+    <li>Authrization = Yetki</li>
+    <hr>
     <li>Attribute = Nitelik, Bir Nesnenin, Öğenin Veya Dosyanın Bir Özelliğini Tanımlar.</li>
     <hr>
     <li>Auditing = Sistemlerin, Süreçlerin Ve Verilerin Gözden Geçirilmesiyle Düzenlemelere Ve Kurum İçi Politikalara Uygunluğun Doğrulanması.</li>
@@ -82,11 +108,11 @@
     <hr>
     <li>Autosave = Otomatik Kaydetme</li>
     <hr>
+    <li>Authentication = Kimlik Denetimi</li>
+    <hr>
     <li>Augmented Reality (AR) = Artırılmış Gerçeklik</li>
     <hr>
-    <li>Algorithm = Algoritma</li>
-    <hr>
-    <li>Algorithm Complexity = Algoritma Karmaşıklığı</li>
+    <li>Average = Ortalama</li>
     <hr>
     <li>ASCII(American Standard Code For Information Interexchange) = 8 Bitlik Kodda bulunan Harfler, Sayılar Ve Diğer Karakterlere Farklı Yuvalar Atayan        Bir Standarttır.</li>
     <hr>
@@ -97,7 +123,17 @@
     <hr>
     <li>Backup = Yedekleme</li>
     <hr>
+    <li>Backspace key = Geri Tuşu</li>
+    <hr>
+    <li>Backup Frequency = Yedekleme Sıklığı</li>
+    <hr>
+    <li>Band With = Bant Genişliği</li>
+    <hr>
+    <li>Banner = Büyük Başlık</li>
+    <hr>
     <li>Backpropagation = Geri Yayılım</li>
+    <hr>
+    <li>Bar Chart = Grafik Çubuğu</li>
     <hr>
     <li>Batch Processing = Toplu İşlem</li>
     <hr>
@@ -293,6 +329,8 @@
     <hr>
     <li>Default = Varsayılan</li>
     <hr>
+    <li>Define = Tanımlamak</li>
+    <hr>
     <li>Delay = Gecikme</li>
     <hr>
     <li>Delete = Silmek</li>
@@ -327,9 +365,15 @@
     <hr>
     <li>Discontinue = Durdurmak</li>
     <hr>
+    <li>Display = Sergilemek</li>
+    <hr>
+    <li>Dispayed = Görüntülenen</li>
+    <hr>
     <li>Diagnostics = Hata Belirleme, Teşhis Etme</li>
     <hr>
     <li>Digital Signature = Dijital İmza</li>
+    <hr>
+    <li>Dicitized = Dijitalleştirilmiş</li>
     <hr>
     <li>Document = Belge</li>
     <hr>
@@ -473,8 +517,6 @@
     <hr>
     <li>Handler = İşleyici</li>
     <hr>
-    <li>Hardware = Donanım</li>
-    <hr>
     <li>Hashing = Karma Fonksiyonu</li>
     <hr>
     <li>Head clean = Kafa Temizleme (Yazıcı)</li>
@@ -489,6 +531,10 @@
     <hr>
     <li>Hosting = Barındırmak</li>
     <hr>
+    <li>Holes = Girişler</li>
+    <hr>
+    <li>Hold Down = Basılı Tut</li>
+    <hr>
     <li>Hyperlink = Bağlantı</li>
     <hr>
     <li>HTML(Hypertext Markup Language) = Bağlantılı Metin İşaretleme/Web Sayfası Yazım Dili</li>
@@ -499,6 +545,10 @@
     <br>
     <h1> I </h1>
     <li>IDE = Entegre Geliştirme Ortamı</li>
+    <hr>
+    <li>Increase = Yükseltme</li>
+    <hr>
+    <li>Information = Bilgi</li>
     <hr>
     <li>Image Editor = Resim Düzenleyici</li>
     <hr>
@@ -719,6 +769,8 @@
     <hr>
     <li>Protocol = Protokol</li>
     <hr>
+    <li>Protect = Koruma</li>
+    <hr>
     <li>Public Domain Software = Kamuya Açık Yazılım</li>
     <hr>
     <li>Publisher = Yayıncı, Reklam Veren</li>
@@ -812,6 +864,8 @@
     <hr>
     <li>Scroll Box = Kaydırma Kutusu</li>
     <hr>
+    <li>Scroll Down = Aşağı Kaydır</li>
+    <hr>
     <li>SDK = Yazılım Geliştirme Kiti</li>
     <hr>
     <li>SEO(Search Engine Optimization) = Arama Motoru Optimizasyonu</li>
@@ -827,6 +881,8 @@
     <li>Select All = Tümünü seç</li>
     <hr>
     <li>Semantic Web = Anlamsal Web</li>
+    <hr>
+    <li>Send = Göndermek</li>
     <hr>
     <li>Set = Ayarla</li>
     <hr>
@@ -870,6 +926,8 @@
     <hr>
     <li>Source Codes = Kaynak Kodları</li>
     <hr>
+    <li>Sound = Ses</li>
+    <hr>
     <li>Support = Destek</li>
     <hr>
     <li>Spin Box = Döndürme Kutusu</li>
@@ -909,6 +967,8 @@
     <li>Seldom = Seyrek</li>
     <hr>
     <li>Stage = Sahne</li>
+    <hr>
+    <li>Supply = Sağlamak</li>
     <hr>
     <li>SQL = Yapılandırılmış Sorgu Dili</li>
     <hr>
