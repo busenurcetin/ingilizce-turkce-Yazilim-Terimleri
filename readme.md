@@ -4,12 +4,6 @@
 
   ## Yazılım Dünyasında Sık Kullanılan İngilizce Yazılım Terimlerinin Türkçe Tercümesi
  <h3>Yazılıma yeni başlayan ya da bir süredir sektörün içinde olup hala yazılım terimlerine hakim olmadığını düşünenlere bir kaynak olması amacıyla, sözlük niteliğinde olması planlanarak oluşturulmuş bir projedir. Yeni kelimeler, deyimler ve tercümeleri eklenmeye devam edecek ve kaynak güncel tutulacaktır.</h3>
-
-  ### [Sözcükler](#sozcukler)
-
-
- ### [Deyimler , Sık Kullanılan Jargonlar, İfadeler](#deyimler)
-
   <br>
    <br>
 
