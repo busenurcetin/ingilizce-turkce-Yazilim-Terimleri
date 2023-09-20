@@ -165,6 +165,8 @@
     <hr>
     <li>Cache = Önbellek</li>
     <hr>
+    <li>Cache Buffer = Ön Bellek</li>
+    <hr>
     <li>Cache Memory = Önbellek Hafıza</li>
     <hr>
     <li>CAD (Computer-Aided Design) = Bilgisayar Destekli Tasarım</li>
@@ -175,9 +177,15 @@
     <hr>
     <li>Capture	 = Yakalamak (Ekran Görüntüsü)</li>
     <hr>
+    <li>Caption = Başlık</li>
+    <hr>
     <li>CASE(Computer Aided Systems Engineering)	 = Bilgisayar Destekli Sistem Mühendisliği</li>
     <hr>
+    <li>Case Study = Örnek Olay İncelemesi</li>
+    <hr>
     <li>CDN = İçerik Dağıtım Ağı</li>
+    <hr>
+    <li>Central Processing Unit = Ana İşlem Birimi</li>
     <hr>
     <li>Check Box = İşaret Kutusu</li>
     <hr>
