@@ -14,6 +14,7 @@
 
 
  ### [Deyimler , Sık Kullanılan Jargonlar, İfadeler](#deyimler)
+ ### [Sık Kullanılan Terimler, Bilinmesi Gereken İfadeler, Hata Mesajları](#hata)
 
   <br>
    <br>
@@ -1408,6 +1409,210 @@
  </ul>
 
  <br>
+
+
+
+
+
+
+
+
+
+
+ <br>
+<br>
+
+<div id="hata"><h1>İngilizce-Türkçe Sık Kullanılan Hata Mesajları ve İfadeler </h1></div>
+
+ <h3>Bu kısım yazılım dünyasında sık kullanılan ve kesinlikle karşınıza çıkacak hata mesajları ve ifadelerden oluşuyor.</h3>
+
+ <ul>
+    <li>"[" or "(" expected. =  "[" veya "(" beklenir.</li>
+    <hr>
+    <br>
+    <li>286/287 instructions are not enabled. = 286/287 komutlarına izin verilmemiş. </li>
+    <hr>
+    <br>
+    <li> Boolean expression expected. = Mantıksal ifade beklenir.</li>
+    <hr>
+    <br>
+    <li>Call to abstract method. = Soyut metod çağrısı.</li>
+    <hr>
+    <br>
+    <li>Cannot call an interrupt procedure.= Bir kesme prosedürü çağrılamaz. </li>
+    <hr>
+    <br>
+    <li> Cannot evaluate this expression = Bu ifadenin değeri bulunamıyor.</li>
+    <hr>
+    <br>
+    <li>Cannot Read or Write variables of this type. = Bu tipten değişkenler okunamaz veya yazılamaz. </li>
+    <hr>
+    <br>
+    <li>Cannot remove current directory. = O anki dizin silinemez.</li>
+    <hr>
+    <br>
+    <li> CASE constant out of range.=  CASE sabiti aralık dışında.</li>
+    <hr>
+    <br>
+    <li> Character expression expected.= Karakter ifadesi beklenir. </li>
+    <hr>
+    <br>
+    <li> Circular unit reference.= Çevrimli birim başvurusu.</li>
+    <hr>
+    <br>
+    <li>Code generation error = Kod üretim hatası</li>
+    <hr>
+    <br>
+    <li>Overflow error = Taşma hatası</li>
+    <hr>
+    <br>
+    <li>Constant and CASE types don't match. = Sabit ve CASE tipleri uyuşmaz.</li>
+    <hr>
+    <br>
+    <li>Constant expected. =  Sabit beklenir.</li>
+    <hr>
+    <br>
+    <li> Constant out of range. = Sabit aralık dışında.</li>
+    <hr>
+    <br>
+    <li> Constructor identifier expected. = Kurucu tanımlayıcısı beklenir.</li>
+    <hr>
+    <br>
+    <li> Critical disk error. = Önemli disk hatası.</li>
+    <hr>
+    <br>
+    <li> Destructor identifier expected. = Yıkıcı tanımlayıcısı beklenir.</li>
+    <hr>
+    <br>
+    <li> Disk full = Disk dolu</li>
+    <hr>
+    <br>
+    <li> Disk read error. = Disk okuma hatası.</li>
+    <hr>
+    <br>
+    <li> Disk write error. =  Disk yazma hatası</li>
+    <hr>
+    <br>
+    <li> Division by zero. = Sıfıra bölme.</li>
+    <hr>
+    <br>
+    <li>DO expected. = DO beklenir.</li>
+    <hr>
+    <br>
+    <li> Duplicate identifier.= Birbirinin aynısı tanımlayıcı(lar).</li>
+    <hr>
+    <br>
+    <li>ENDIF directive missing . = ENDIF yönergesi eksik (yok).</li>
+    <hr>
+    <br>
+    <li> Error in expression. = İfadede hata.</li>
+    <hr>
+    <br>
+    <li> Error in initial conditional defines. = Baştaki şartlı tanımlarda hata. </li>
+    <hr>
+    <br>
+    <li>Error in integer constant. = Tamsayı sabitinde hata.</li>
+    <hr>
+    <br>
+    <li>Error in real constant. = Reel (sayı) sabitinde hata.</li>
+    <hr>
+    <br>
+    <li>Error in statement. = Deyimde hata.</li>
+    <hr>
+    <br>
+    <li>Error in type. = Tipte hata</li>
+    <hr>
+    <br>
+    <li>Field identifier expected. = Alan tanımlayıcısı beklenir.</li>
+    <hr>
+    <br>
+    <li>File access denied. = Dosya erişimine izin verilmez (Dosya erişimi reddedildi).</li>
+    <hr>
+    <br>
+    <li>File and procedure types are not allowed here. = Burada dosya ve prosedür tiplerine izin verilmez.</li>
+    <hr>
+    <br>
+    <li>File not assigned. =  Dosya atanmamış.</li>
+    <hr>
+    <br>
+    <li> File not found. = Dosya bulunamadı.</li>
+    <hr>
+    <br>
+    <li>File not open. = Dosya açık değil.</li>
+    <hr>
+    <br>
+    <li> = </li>
+    <hr>
+    <br>
+    <li> = </li>
+    <hr>
+    <br>
+    <li> = </li>
+    <hr>
+    <br>
+    <li> = </li>
+    <hr>
+    <br>
+    <li> = </li>
+    <hr>
+    <br>
+    <li> = </li>
+    <hr>
+    <br>
+    <li> = </li>
+    <hr>
+    <br>
+    <li> = </li>
+    <hr>
+    <br>
+    <li> = </li>
+    <hr>
+    <br>
+    <li> = </li>
+    <hr>
+    <br>
+    <li> = </li>
+    <hr>
+    <br>
+    <li> = </li>
+    <hr>
+    <br>
+    <li> = </li>
+    <hr>
+    <br>
+    <li> = </li>
+    <hr>
+    <br>
+    <li> = </li>
+    <hr>
+    <br>
+    <li> = </li>
+    <hr>
+    <br>
+    <li> = </li>
+    <hr>
+    <br>
+    <li> = </li>
+    <hr>
+    <br>
+    <li> = </li>
+    <hr>
+    <br>
+    <li> = </li>
+    <hr>
+    <br>
+    <li> = </li>
+    <hr>
+    <br>
+    <li> = </li>
+    <hr>
+    <br>
+    <li> = </li>
+    <hr>
+    <br>
+    <li> = </li>
+    <hr>
+    <br>
 
 ## Author
 [Buse Nur Çetin](https://github.com/busenurcetin)
