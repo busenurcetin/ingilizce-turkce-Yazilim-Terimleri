@@ -1541,78 +1541,422 @@
     <li>File not open. = Dosya açık değil.</li>
     <hr>
     <br>
-    <li> = </li>
+    <li>File not open for input. = Dosya giriş için açık değil.</li>
     <hr>
     <br>
-    <li> = </li>
+    <li> File not open for output. = Dosya çıkış için açık değil.</li>
     <hr>
     <br>
-    <li> = </li>
+    <li> File variable expected. = Dosya değişkeni beklenir.</li>
     <hr>
     <br>
-    <li> = </li>
+    <li> Files must be VAR parameters. = Dosyalar VAR parametresi olmalı.</li>
     <hr>
     <br>
-    <li> = </li>
+    <li>Floating point overflow. = Reel sayı taşması.</li>
     <hr>
     <br>
-    <li> = </li>
+    <li>Header does not match previous definition. = Başlık önceki tanımla uyuşmaz.</li>
     <hr>
     <br>
-    <li> = </li>
+    <li>  Identifier expected. = Tanımlayıcı beklenir .</li>
     <hr>
     <br>
-    <li> = </li>
+    <li>Illegal assignment. = Kural dışı atama.</li>
     <hr>
     <br>
-    <li> = </li>
+    <li>Include files are not allowed here . = Burada içerilen dosyalara izin verilmez .</li>
     <hr>
     <br>
-    <li> = </li>
+    <li>Integer constant expected. = Tamsayı sabiti beklenir.</li>
     <hr>
     <br>
-    <li> = </li>
+    <li> Integer expression expected.= Tamsayı ifadesi beklenir.</li>
     <hr>
     <br>
-    <li> = </li>
+    <li>Integer or real constant expected. = Tamsayı veya reel sabiti beklenir.</li>
     <hr>
     <br>
-    <li> = </li>
+    <li>Integer variable expected. = Tamsayı değişkeni beklenir.</li>
     <hr>
     <br>
-    <li> = </li>
+    <li>Invalid combination of opcode and operands. = İşlem kodu ve işlenenlerin geçersiz kombinasyonu.</li>
     <hr>
     <br>
-    <li> = </li>
+    <li>Invalid compiler directive. = Geçersiz derleyici yönergesi.</li>
     <hr>
     <br>
-    <li> = </li>
+    <li>Invalid file access code. = Geçersiz dosya erişim kodu</li>
     <hr>
     <br>
-    <li> = </li>
+    <li>Invalid file handle. = Geçersiz dosya tutamağı (belirteci).</li>
     <hr>
     <br>
-    <li> = </li>
+    <li>Invalid file name. = Geçersiz dosya adı.</li>
     <hr>
     <br>
-    <li> = </li>
+    <li>Invalid file type. = Geçersiz dosya tipi.</li>
     <hr>
     <br>
-    <li> = </li>
+    <li>  Invalid floating point operation. = Geçersiz reel sayı işlemi.</li>
     <hr>
     <br>
-    <li> = </li>
+    <li> Invalid FOR control variable. = Geçersiz FOR kontrol değişkeni.</li>
     <hr>
     <br>
-    <li> = </li>
+    <li>Invalid function result type. = Geçersiz fonksiyon sonuç tipi.</li>
     <hr>
     <br>
-    <li> = </li>
+    <li>Invalid ordering of fields. = Alanların geçersiz sıralanması.</li>
     <hr>
     <br>
-    <li> = </li>
+    <li>Invalid pointer operation. = Geçersiz işaretçi işlemi.</li>
     <hr>
     <br>
+    <li>Invalid procedure or function reference. = Geçersiz prosedür veya fonksiyon başvurusu.</li>
+    <hr>
+    <br>
+    <li>Invalid string length. = Geçersiz string (karakter katarı) uzunluğu.</li>
+    <hr>
+    <br>
+    <li> Invalid typecast. = Geçersiz tipzorlama.</li>
+    <hr>
+    <br>
+    <li> Invalid variable reference. = Geçersiz değişken başvurusu.</li>
+    <hr>
+    <br>
+    <li>Label already defined. = Etiket önceden (zaten) tanımlanmış.</li>
+    <hr>
+    <br>
+    <li>Label identifier expected. = Etiket tanımlayıcısı beklenir.</li>
+    <hr>
+    <br>
+    <li>Label not within current block. = Etiket o anki blok içinde değil.</li>
+    <hr>
+    <br>
+    <li>Line too long. = Satır çok uzun.</li>
+    <hr>
+    <br>
+    <li>Local object types are not allowed. = Yerel nesne tiplerine izin verilmez.</li>
+    <hr>
+    <br>
+    <li>Lower bound > than upper bound. = Altsınır üst sınırdan büyük.</li>
+    <hr>
+    <br>
+    <li>Method identifier expected. = Metod tanımlayıcısı beklenir.</li>
+    <hr>
+    <br>
+    <li>Misplaced conditional directive. = Yanlış yerleştirilmiş şartlı yönerge.</li>
+    <hr>
+    <br>
+    <li>Must be in 8087 mode to compile. = Derlemek için 8087 modunda olmalı.</li>
+    <hr>
+    <br>
+    <li>NIL expected. = NIL beklenir.</li>
+    <hr>
+    <br>
+    <li>Object file too large. = Nesne dosyası çok büyük.</li>
+    <hr>
+    <br>
+    <li>Object not initialized. = Nesne başlatılmamış.</li>
+    <hr>
+    <br>
+    <li>Object type expected. = Nesne tipi beklenir.</li>
+    <hr>
+    <br>
+    <li>Operand types do not match operator. = İşlenen tipleri işleyenle (işleçle) uyuşmaz.</li>
+    <hr>
+    <br>
+    <li> Ordinal expression expected.= Sıra belirten ifade beklenir.</li>
+    <hr>
+    <br>
+    <li>Ordinal type expected. = Sıra belirten tip beklenir.</li>
+    <hr>
+    <br>
+    <li>Ordinal variable expected. = Sıra belirten değişken beklenir.</li>
+    <hr>
+    <br>
+    <li>Out of memory. = Hafıza bitti.</li>
+    <hr>
+    <br>
+    <li>Path not found. = Yol bulunamadı.</li>
+    <hr>
+    <br>
+    <li>Pointer expression expected. = İşaretçi ifadesi beklenir.</li>
+    <hr>
+    <br>
+    <li>Pointer type identifier expected. = İşaretçi tip tanımlayıcısı beklenir.</li>
+    <hr>
+    <br>
+    <li>Pointer variable expected. = İşaretçi değişkeni beklenir.</li>
+    <hr>
+    <br>
+    <li>Procedure or function identifier expected. = Prosedğr veya fonksiyon tanımlayıcısı beklenir.</li>
+    <hr>
+    <br>
+    <li>Procedure or function variable expected. = Prosedür veya fonksiyon değişkeni beklenir.</li>
+    <hr>
+    <br>
+    <li>Range check error. = Aralık kontrol hatası.</li>
+    <hr>
+    <br>
+    <li>Record variable expected. = Kayıt değişkeni beklenir</li>
+    <hr>
+    <br>
+    <li>Stack overflow error.  = Yığın taşma hatası.</li>
+    <hr>
+    <br>
+    <li>String constant exceeds line. = String sabiti satırı aşar.</li>
+    <hr>
+    <br>
+    <li>String constant expected. = String sabiti beklenir.</li>
+    <hr>
+    <br>
+    <li>String expression expected. = String ifadesi beklenir.</li>
+    <hr>
+    <br>
+    <li>String length mismatch. = String uzunluk uyuşmazlığı.</li>
+    <hr>
+    <br>
+    <li>String variable expected. = String değişkeni beklenir.</li>
+    <hr>
+    <br>
+    <li>Structure too large. = Yapı çok büyük.</li>
+    <hr>
+    <br>
+    <li>Structured variables are not allowed here. = Burada yapısal değişkenlere izin verilmez.</li>
+    <hr>
+    <br>
+    <li>Syntax error. = Sözdizimi hatası.</li>
+    <hr>
+    <br>
+    <li>Target address not found. = Hedef adres bulunamadı</li>
+    <hr>
+    <br>
+    <li>TO or DOWNTO expected. = TO veya DOWNTO beklenir.</li>
+    <hr>
+    <br>
+    <li>Too many conditional symbols. = Çok fazla şartlı sembol.</li>
+    <hr>
+    <br>
+    <li>Too many nested files. = Çok fazla içiçe (içerilen) dosya.</li>
+    <hr>
+    <br>
+    <li>Too many open files. = Çok fazla açık dosya.</li>
+    <hr>
+    <br>
+    <li>Type identifier expected. = Tip tanımlayıcısı beklenir.</li>
+    <hr>
+    <br>
+    <li> Type mismatch. = Tip uyuşmazlığı.</li>
+    <hr>
+    <br>
+    <li>Undefined external. = Tanımlanmamış harici.</li>
+    <hr>
+    <br>
+    <li>Undefined FORWARD. = Tanımlanmamış FORWARD.</li>
+    <hr>
+    <br>
+    <li>Undefined type in pointer definition. = İşaretçi tanımında tanımlanmamış tip.</li>
+    <hr>
+    <br>
+    <li>Unexpected end of file. = Beklenmeyen dosya sonu.</li>
+    <hr>
+    <br>
+    <li>Unit name mismatch. = Birim adı uyuşmazlığı.</li>
+    <hr>
+    <br>
+    <li>Unknown identifier. = Bilinmeyen tanımlayıcı.</li>
+    <hr>
+    <br>
+    <li>Variable identifier expected. = Değişken tanımlayıcısı beklenir.</li>
+    <hr>
+    <br>
+    <li>Anormal program termination. = Anormal (normal olmayan) program sonlanması.</li>
+    <hr>
+    <br>
+    <li>Floating point error: Divide by 0. = Reel sayı hatası : Sıfıra bölme.</li>
+    <hr>
+    <br>
+    <li>Floating point error: Partial loss of precision. = Reel sayı hatası . Kısmi hassaslık kaybı.</li>
+    <hr>
+    <br>
+    <li>NULL pointer assignment. = NULL işaretçi ataması.</li>
+    <hr>
+    <br>
+    <li>Code has no effect. = Kod etkiye sahip değil (Etkisiz kod).</li>
+    <hr>
+    <br>
+    <li> Function should return a value. = Fonksiyon geriye bir değer döndürmeli.</li>
+    <hr>
+    <br>
+    <li>Parameter 'abc' is never used. = 'abc' parametresi hiç kullanılmamış.</li>
+    <hr>
+    <br>
+    <li>Possible use of 'abc' before definition. = 'abc' nin tanımlanmadan önce kullanılma olasılığı .</li>
+    <hr>
+    <br>
+    <li>Possibly incorrect assignment. = Yanlış atama olasılığı.</li>
+    <hr>
+    <br>
+    <li> Unreachable code. = Ulaşılamayan kod.</li>
+    <hr>
+    <br>
+    <li> Call to function with no prototype. = Prototipsiz fonksiyon çağrısı.</li>
+    <hr>
+    <br>
+    <li>'abc' declared but never used. = 'abc' tanımlanmış fakat hiç kullanılmamış. </li>
+    <hr>
+    <br>
+    <li>'id' is assigned a value that is never used. = 'id' ye hiç kullanılmayan bir değer atanmış .</li>
+    <hr>
+    <br>
+    <li> No declaration for function 'abc'. = 'abc' fonksiyonu için tanımlama yok.</li>
+    <hr>
+    <br>
+    <li>Structure passed by value. = Yapı değer ile aktarılmış.</li>
+    <hr>
+    <br>
+    <li>Error writing output file. = Çıkış dosyasına yazma hatası.</li>
+    <hr>
+    <br>
+    <li>Unable to open '1.txt'.= <'1.txt' açılamıyor </li>
+    <hr>
+    <br>
+    <li> Array bounds missing ].  = Dizi sınırlarının ] i yok (eksik).</li>
+    <hr>
+    <br>
+    <li>Array must have at least one element. = Dizi en az bir elemana sahip olmalı.</li>
+    <hr>
+    <br>
+    <li> Body already defined for this function. = Bu fonksiyon için gövde zaten (önceden) tanımlanmış.</li>
+    <hr>
+    <br>
+    <li> CASE outside of SWITCH. = SWITCH dışında CASE. </li>
+    <hr>
+    <br>
+    <li> CASE statement missing = CASE deyiminin : si yok (eksik).</li>
+    <hr>
+    <br>
+    <li> Declaration is not allowed here. = Burada tanımlamaya izin verilmez.</li>
+    <hr>
+    <br>
+    <li> Declaration syntax error. = Tanımlamada sözdizimi hatası.</li>
+    <hr>
+    <br>
+    <li> Declaration terminated incorrectly. = Tanımlama yanlış sonlandırılmış.</li>
+    <hr>
+    <br>
+    <li> Character constant must be one or two characters long. =  Karakter sabiti bir veya iki karakter uzunluğunda olmalı.</li>
+    <hr>
+    <br>
+    <li>Declaration was expected. = Tanımlama beklenir. </li>
+    <hr>
+    <br>
+    <li>DEFAULT outside of SWITCH. =  SWITCH dışında DEFAULT.</li>
+    <hr>
+    <br>
+    <li>DO statement must have WHILE. = DO deyimi WHILEa sahip olmalı.</li>
+    <hr>
+    <br>
+    <li>'abc' cannot return a value. = 'abc' bir değer döndüremez.</li>
+    <hr>
+    <br>
+    <li>'abc' must be declared with no parameters.  = 'abc' parametresiz tanımlanmalı. </li>
+    <hr>
+    <br>
+    <li> 'abc' must be declared with one parameter. = 'abc' bir parametreli tanımlanmalı.</li>
+    <hr>
+    <br>
+    <li> Function 'abc' should have a prototype. = 'abc' fonksiyonu bir prototipe sahip olmalı.</li>
+    <hr>
+    <br>
+    <li> Identifier expected. = Tanımlayıcı beklenir.</li>
+    <hr>
+    <br>
+    <li> 'abc' must be declared with two parameters. = 'abc' iki parametreli tanımlanmalı.</li>
+    <hr>
+    <br>
+    <li>'abc' cannot be distinguished from 'def'. =  'abc' 'def' den ayırt edilemez.</li>
+    <hr>
+    <br>
+    <li>Incompatible type conversion. = Uyumsuz tip dönüşümü.</li>
+    <hr>
+    <br>
+    <li>Incorrect command-line option. = Yanlış komut satırı seçeneği.</li>
+    <hr>
+    <br>
+    <li>Incorrect configuration file option. = Yanlış ayar dosyası seçeneği.</li>
+    <hr>
+    <br>
+    <li>Incorrect number format. = Yanlış sayı biçimi (düzeni).</li>
+    <hr>
+    <br>
+    <li>main must have a return type of int. = main geriye int döndürmeli.</li>
+    <hr>
+    <br>
+    <li> No file names given. = Dosya isimleri verilmemiş.</li>
+    <hr>
+    <br>
+    <li> Nonportable pointer conversion. = Taşınamayan işaretçi dönüşümü.</li>
+    <hr>
+    <br>
+    <li>Numeric constant too large. = Sayısal sabit çok büyük.</li>
+    <hr>
+    <br>
+    <li> Operator DELETE must return VOID. = DELETE işlemi VOID döndürmeli.</li>
+    <hr>
+    <br>
+    <li>SIZEOF may not be applied to a function. = SIZEOF bir fonksiyona uygulanamaz. </li>
+    <hr>
+    <br>
+    <li> Size of 'abc' is unknown or zero. = 'abc'nin boyu bilinmiyor veya sıfır.</li>
+    <hr>
+    <br>
+    <li> Size of the type is unknown or zero.= Tipin boyu bilinmiyor veya sıfır.</li>
+    <hr>
+    <br>
+    <li> Structure size too large. = Yapı boyu çok büyük.</li>
+    <hr>
+    <br>
+    <li> Too few parameters in call to function. = Fonksiyon çağrısında çok az parametre.</li>
+    <hr>
+    <br>
+    <li> Type name expected. = Tip adı beklenir.</li>
+    <hr>
+    <br>
+    <li> Unterminated string or character constant. = Sonlandırılmamış string veya karakter sabiti.</li>
+    <hr>
+    <br>
+    <li> Memory reference expected. = Hafıza başvurusu (referansı) beklenir.</li>
+    <hr>
+    <br>
+    <li> Operator must be declared as function. = İşlem fonksiyon olarak tanımlanmalı.</li>
+    <hr>
+    <br>
+    <li> Too many error or warning messages. = Çok fazla hata veya uyarı mesajı.</li>
+    <hr>
+    <br>
+    <li>Too many types in declaration. = Tanımlamada çok fazla tip.</li>
+    <hr>
+    <br>
+    <li>Value of type VOID is not allowed. = VOID tipinden değere izin verilmez.</li>
+    <hr>
+    <br>
+    <li> Wrong number of arguments in call of macro. = Makro çağrısında yanlış parametre sayısı.</li>
+    <hr>
+    <br>
+    <li> Suspicious pointer conversion. = Şüpheli işaretçi dönüşümü.</li>
+    <hr>
+    <br>
+    <li> Unknown assembler instruction. = Bilinmeyen birleştirici (Assembler) komutu.</li>
+    <hr>
+    <br>
+    
+   </ul>
+ <br>
+
+
 
 ## Author
 [Buse Nur Çetin](https://github.com/busenurcetin)
