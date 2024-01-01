@@ -3,7 +3,7 @@
 ![GitHub forks](https://img.shields.io/github/forks/busenurcetin/ingilizce-turkce-Yazilim-Terimleri?style=social)
 [![Twitter Follow](https://img.shields.io/twitter/follow/busenurcetin16?style=social)](https://twitter.com/intent/follow?screen_name=busenurcetin16)
 
-[![PDF İndir](https://img.shields.io/badge/PDF%20İndir-Yükle-blue)](https://raw.githubusercontent.com/busenurcetin/ingilizce-turkce-Yazilim-Terimleri/blob/main/İngilizce-Türkçe%20Yazılım%20Terimleri.pdf)
+[![PDF İndir](https://img.shields.io/badge/PDF%20İndir-Yükle-blue)](https://github.com/busenurcetin/ingilizce-turkce-Yazilim-Terimleri/blob/main/I%CC%87ngilizce-Tu%CC%88rkc%CC%A7e%20Yaz%C4%B1l%C4%B1m%20Terimleri.pdf)
  
  <h1> İngilizce-Türkçe Yazılım Terimleri </h1>
  
