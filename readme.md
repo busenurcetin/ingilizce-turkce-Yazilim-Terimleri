@@ -2,6 +2,8 @@
 ![GitHub stars](https://img.shields.io/github/stars/busenurcetin/ingilizce-turkce-Yazilim-Terimleri?style=social)
 ![GitHub forks](https://img.shields.io/github/forks/busenurcetin/ingilizce-turkce-Yazilim-Terimleri?style=social)
 [![Twitter Follow](https://img.shields.io/twitter/follow/busenurcetin16?style=social)](https://twitter.com/intent/follow?screen_name=busenurcetin16)
+
+[![PDF İndir](https://img.shields.io/badge/PDF%20İndir-Yükle-blue)](https://raw.githubusercontent.com/busenurcetin/ingilizce-turkce-Yazilim-Terimleri/blob/main/İngilizce-Türkçe%20Yazılım%20Terimleri.pdf)
  
  <h1> İngilizce-Türkçe Yazılım Terimleri </h1>
  
@@ -9,6 +11,8 @@
 
   ## Yazılım Dünyasında Sık Kullanılan İngilizce Yazılım Terimlerinin Türkçe Tercümesi
  <h3>Yazılıma yeni başlayan ya da bir süredir sektörün içinde olup hala yazılım terimlerine hakim olmadığını düşünenlere bir kaynak olması amacıyla, sözlük niteliğinde olması planlanarak oluşturulmuş bir projedir. Yeni kelimeler, deyimler ve tercümeleri eklenmeye devam edecek ve kaynak güncel tutulacaktır.</h3>
+
+ 
 
   ### [Sözcükler](#sozcukler)
 
